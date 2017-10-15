@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aziz Khan on Aziz Khan</title>
+    <link>https://asntech.github.io/</link>
+    <description>Recent content in Aziz Khan on Aziz Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aziz Khan</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
+      <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JASPAR 2018 database</title>
+      <link>https://asntech.github.io/project/jaspar-2018/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-2018/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brnad new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar2018.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar2018.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JASPAR RESTful API</title>
+      <link>https://asntech.github.io/project/jaspar-rest-api/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-rest-api/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. Currently, data from JASPAR can be retrieved as flat files or by using programming language-specific interfaces. Here, we present a programming language-independent application programming interface (API) to access JASPAR data using the Representational State Transfer (REST) architecture. The REST API enables programmatic access to JASPAR by most programming languages and returns data in seven widely used formats. Further, it provides an endpoint to infer the TF binding profile(s) likely bound by a given DNA binding domain protein sequence. Additionally, it provides an interactive browsable interface for bioinformatics tool developers. The REST API is implemented in Python using the Django REST Framework. It is accessible at &lt;a href=&#34;http://hfaistos.uio.no:8000/api/&#34; target=&#34;_blank&#34;&gt;http://hfaistos.uio.no:8000/api/&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
+      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intervene: a tool for intersection and visualization of multiple gene or genomic region sets</title>
+      <link>https://asntech.github.io/publication/intervene/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/intervene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis, prediction, and annotation of super-enhancers</title>
+      <link>https://asntech.github.io/talk/super-enhancers-sevn_furberg/</link>
+      <pubDate>Thu, 27 Apr 2017 14:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/super-enhancers-sevn_furberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and prediction of super-enhancers using sequence and chromatin signatures</title>
+      <link>https://asntech.github.io/publication/super-enhancers-analysis-prediction/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/super-enhancers-analysis-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis reveals significant differences between super and stretch enhancers</title>
+      <link>https://asntech.github.io/talk/super-vs-stretch-enhancers_imb/</link>
+      <pubDate>Wed, 30 Nov 2016 09:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/super-vs-stretch-enhancers_imb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intervene</title>
+      <link>https://asntech.github.io/project/intervene/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/intervene/</guid>
+      <description>&lt;p&gt;A common task for scientists relies on comparing lists of genes or genomic regions derived from high-throughput sequencing experiments. While several tools exist to intersect and visualize sets of genes, similar tools dedicated to the visualization of genomic region sets are currently limited. To address this gap, we have developed the Intervene tool, which provides an easy and automated interface for the effective intersection and visualization of genomic region or list sets, thus facilitating their analysis and interpretation. Intervene contains three modules: venn to generate Venn diagrams of up to six sets, upset to generate UpSet plots of multiple sets, and pairwise to compute and visualize intersections of multiple sets as clustered heat maps. Intervene, and its interactive web ShinyApp companion, generate publication-quality figures for the interpretation of genomic region and list sets. Intervene and its web application companion provide an easy command line, and an interactive web interface to compute intersections of multiple genomic and list sets. They also have the capacity to plot intersections using easy-to-interpret visual approaches. Intervene is developed and designed to meet the needs of both computer scientists and biologists. The source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/intervene&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/intervene&lt;/a&gt;, with the web application available at &lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dbSUPER</title>
+      <link>https://asntech.github.io/project/dbsuper/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/dbsuper/</guid>
+      <description>&lt;p&gt;Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available. We developed dbSUPER (&lt;a href=&#34;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&lt;/a&gt;), the first integrated and interactive database of super-enhancers, with the primary goal of providing a resource for assistance in further studies related to transcriptional control of cell identity and disease. dbSUPER provides a responsive and user-friendly web interface to facilitate efficient and comprehensive search and browsing. The data can be easily sent to Galaxy instances, GREAT and Cistrome web-servers for downstream analysis, and can also be visualized in the UCSC genome browser where custom tracks can be added automatically. The data can be downloaded and exported in variety of formats. Furthermore, dbSUPER lists genes associated with super-enhancers and also links to external databases such as GeneCards, UniProt and Entrez. dbSUPER also provides an overlap analysis tool to annotate user-defined regions. We believe dbSUPER is a valuable resource for the biology and genetic research communities. A mirror website is available at &lt;a href=&#34;http://asntech.org/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://asntech.org/dbsuper/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my new website using Hugo framework</title>
+      <link>https://asntech.github.io/post/welcome/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;This is a welcome post about my new website using &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Academic Theme&lt;/a&gt; and the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dbSUPER: a database of super-enhancers in mouse and human genome</title>
+      <link>https://asntech.github.io/publication/dbsuper/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/dbsuper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of ChIP-seq and machine learning reveals super-enhancers and features of biological significance</title>
+      <link>https://asntech.github.io/talk/super-enhancers-tsinghua/</link>
+      <pubDate>Wed, 07 May 2014 09:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/super-enhancers-tsinghua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

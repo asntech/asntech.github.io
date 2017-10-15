@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Aziz Khan</title>
+    <link>https://asntech.github.io/tags/</link>
+    <description>Recent content in Tags on Aziz Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aziz Khan</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://asntech.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/academic/</guid>
+      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://asntech.github.io/tags/database/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://asntech.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaspar</title>
+      <link>https://asntech.github.io/tags/jaspar/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/jaspar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>https://asntech.github.io/tags/rest/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set Analysis</title>
+      <link>https://asntech.github.io/tags/set-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/set-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super Enhancers</title>
+      <link>https://asntech.github.io/tags/super-enhancers/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/super-enhancers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://asntech.github.io/tags/visualization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

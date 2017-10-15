@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Aziz Khan</title>
+    <link>https://asntech.github.io/publication/</link>
+    <description>Recent content in Publications on Aziz Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aziz Khan</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
+      <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
+      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intervene: a tool for intersection and visualization of multiple gene or genomic region sets</title>
+      <link>https://asntech.github.io/publication/intervene/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/intervene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and prediction of super-enhancers using sequence and chromatin signatures</title>
+      <link>https://asntech.github.io/publication/super-enhancers-analysis-prediction/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/super-enhancers-analysis-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dbSUPER: a database of super-enhancers in mouse and human genome</title>
+      <link>https://asntech.github.io/publication/dbsuper/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/dbsuper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

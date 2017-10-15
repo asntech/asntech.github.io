@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Aziz Khan</title>
+    <link>https://asntech.github.io/tags/database/</link>
+    <description>Recent content in Database on Aziz Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aziz Khan</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/database/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>dbSUPER</title>
+      <link>https://asntech.github.io/project/dbsuper/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/dbsuper/</guid>
+      <description>&lt;p&gt;Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available. We developed dbSUPER (&lt;a href=&#34;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&lt;/a&gt;), the first integrated and interactive database of super-enhancers, with the primary goal of providing a resource for assistance in further studies related to transcriptional control of cell identity and disease. dbSUPER provides a responsive and user-friendly web interface to facilitate efficient and comprehensive search and browsing. The data can be easily sent to Galaxy instances, GREAT and Cistrome web-servers for downstream analysis, and can also be visualized in the UCSC genome browser where custom tracks can be added automatically. The data can be downloaded and exported in variety of formats. Furthermore, dbSUPER lists genes associated with super-enhancers and also links to external databases such as GeneCards, UniProt and Entrez. dbSUPER also provides an overlap analysis tool to annotate user-defined regions. We believe dbSUPER is a valuable resource for the biology and genetic research communities. A mirror website is available at &lt;a href=&#34;http://asntech.org/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://asntech.org/dbsuper/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

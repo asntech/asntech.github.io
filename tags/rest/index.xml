@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on Aziz Khan</title>
+    <link>https://asntech.github.io/tags/rest/</link>
+    <description>Recent content in Rest on Aziz Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aziz Khan</copyright>
+    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/rest/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JASPAR 2018 database</title>
+      <link>https://asntech.github.io/project/jaspar-2018/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-2018/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brnad new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar2018.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar2018.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JASPAR RESTful API</title>
+      <link>https://asntech.github.io/project/jaspar-rest-api/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-rest-api/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. Currently, data from JASPAR can be retrieved as flat files or by using programming language-specific interfaces. Here, we present a programming language-independent application programming interface (API) to access JASPAR data using the Representational State Transfer (REST) architecture. The REST API enables programmatic access to JASPAR by most programming languages and returns data in seven widely used formats. Further, it provides an endpoint to infer the TF binding profile(s) likely bound by a given DNA binding domain protein sequence. Additionally, it provides an interactive browsable interface for bioinformatics tool developers. The REST API is implemented in Python using the Django REST Framework. It is accessible at &lt;a href=&#34;http://hfaistos.uio.no:8000/api/&#34; target=&#34;_blank&#34;&gt;http://hfaistos.uio.no:8000/api/&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

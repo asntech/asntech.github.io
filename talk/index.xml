@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Aziz Khan</title>
+    <link>https://asntech.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Aziz Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aziz Khan</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comprehensive analysis, prediction, and annotation of super-enhancers</title>
+      <link>https://asntech.github.io/talk/super-enhancers-sevn_furberg/</link>
+      <pubDate>Thu, 27 Apr 2017 14:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/super-enhancers-sevn_furberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis reveals significant differences between super and stretch enhancers</title>
+      <link>https://asntech.github.io/talk/super-vs-stretch-enhancers_imb/</link>
+      <pubDate>Wed, 30 Nov 2016 09:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/super-vs-stretch-enhancers_imb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of ChIP-seq and machine learning reveals super-enhancers and features of biological significance</title>
+      <link>https://asntech.github.io/talk/super-enhancers-tsinghua/</link>
+      <pubDate>Wed, 07 May 2014 09:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/super-enhancers-tsinghua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
