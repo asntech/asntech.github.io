@@ -21,9 +21,18 @@
     </item>
     
     <item>
+      <title>Api</title>
+      <link>https://asntech.github.io/tags/api/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Database</title>
       <link>https://asntech.github.io/tags/database/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/tags/database/</guid>
       <description></description>
@@ -39,47 +48,29 @@
     </item>
     
     <item>
-      <title>Jaspar</title>
-      <link>https://asntech.github.io/tags/jaspar/</link>
+      <title>Phd</title>
+      <link>https://asntech.github.io/tags/phd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postdoc</title>
+      <link>https://asntech.github.io/tags/postdoc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>https://asntech.github.io/tags/tool/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://asntech.github.io/tags/jaspar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rest</title>
-      <link>https://asntech.github.io/tags/rest/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Set Analysis</title>
-      <link>https://asntech.github.io/tags/set-analysis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/set-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Super Enhancers</title>
-      <link>https://asntech.github.io/tags/super-enhancers/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/super-enhancers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>https://asntech.github.io/tags/visualization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/visualization/</guid>
+      <guid>https://asntech.github.io/tags/tool/</guid>
       <description></description>
     </item>
     

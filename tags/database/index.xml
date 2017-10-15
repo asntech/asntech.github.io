@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Aziz Khan</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/database/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JASPAR 2018 database</title>
+      <link>https://asntech.github.io/project/jaspar-2018/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-2018/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brnad new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar2018.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar2018.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>dbSUPER</title>
