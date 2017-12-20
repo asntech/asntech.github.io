@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
+      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
       <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
@@ -25,15 +34,6 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/bioconda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
-      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
       <description></description>
     </item>
     
