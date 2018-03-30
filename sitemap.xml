@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>https://asntech.github.io/post/database-of-fundings-for-postdocs/</loc>
+      <lastmod>2018-02-20T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/post/jaspar-database-with-a-new-look/</loc>
+      <lastmod>2018-01-01T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://asntech.github.io/publication/jaspar-rest-api/</loc>
       <lastmod>2017-12-15T00:00:00+00:00</lastmod>
     </url>
@@ -25,6 +43,15 @@
     
       <loc>https://asntech.github.io/publication/bioconda/</loc>
       <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/post/time-to-make-venn-diagram-upset/</loc>
+      <lastmod>2017-08-20T12:00:00+00:00</lastmod>
     </url>
     
   
@@ -207,6 +234,16 @@
     
     <url>
     
+      <loc>https://asntech.github.io/tags/bioviz/</loc>
+      <lastmod>2017-08-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://asntech.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -217,7 +254,27 @@
     <url>
     
       <loc>https://asntech.github.io/tags/database/</loc>
-      <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-01T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/ecr/</loc>
+      <lastmod>2018-02-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/funding/</loc>
+      <lastmod>2018-02-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,6 +285,26 @@
     
       <loc>https://asntech.github.io/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/jaspar/</loc>
+      <lastmod>2018-01-01T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/postdoc/</loc>
+      <lastmod>2018-02-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -268,6 +345,26 @@
     
       <loc>https://asntech.github.io/tags/tool/</loc>
       <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/upset/</loc>
+      <lastmod>2017-08-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/venn/</loc>
+      <lastmod>2017-08-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
