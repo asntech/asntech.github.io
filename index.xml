@@ -11,6 +11,74 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Towards a format-free submission policy: Let&#39;s put science first</title>
+      <link>https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/</link>
+      <pubDate>Thu, 12 Apr 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/</guid>
+      <description>&lt;p&gt;Most academic journals have stringent manuscript formatting guidelines that authors must follow before making an initial submission. This process is extremely time consuming and, in many cases, has to be repeated multiple times for submission to a new journal after rejection.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Formatting has no impact on the scientific basis of a manuscript, and style plays no role in the ability to judge its scientific content.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is, therefore, essential to stop these unnecessary and wasteful cycles of formatting to save time and resources.&lt;/p&gt;
+
+&lt;p&gt;Isabelle M Côté a professor of Marine Ecology at Simon Fraser University took it to Twitter and asked journals to impose format requirements once a paper is accepted.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Wouldn&amp;#39;t it be great if publishers required journal-specific formatting only after MS acceptance? So much time is wasted reformatting papers &lt;a href=&#34;https://t.co/wCtNq75obg&#34;&gt;pic.twitter.com/wCtNq75obg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Isabelle M Côté (@redlipblenny) &lt;a href=&#34;https://twitter.com/redlipblenny/status/915382785266802688?ref_src=twsrc%5Etfw&#34;&gt;October 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The good news is some journals already start accepting format-free initial submissions, such as Bioinformatics.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Good to know that the Bioinformatics journal no longer require to format first submissions according to their guidelines.&lt;br&gt;&lt;br&gt;Science first, format later! &lt;br&gt;&lt;br&gt;I hope other journals will allow too. &lt;a href=&#34;https://twitter.com/hashtag/FormatFreeSubmissions?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#FormatFreeSubmissions&lt;/a&gt; &lt;a href=&#34;https://t.co/MYxFRVdKnG&#34;&gt;pic.twitter.com/MYxFRVdKnG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/931310161591001088?ref_src=twsrc%5Etfw&#34;&gt;November 16, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;We propose a universal ‘format-free’ initial submission policy, which has the following characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Structure-free abstract&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Order-free sections&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Style-free references&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Format-free figures and tables&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Format-free manuscript file&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more details, read our policy piece on format-free, which just appeared in the journal &lt;em&gt;EMBO reports&lt;/em&gt; as an opinion article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Khan A., Montenegro-Montero A., and Mathelier A. (2018) Put science first and formatting later, doi:&lt;a href=&#34;https://doi.org/10.15252/embr.201845731&#34; target=&#34;_blank&#34;&gt;10.15252/embr.201845731 &lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We also created a &lt;a href=&#34;https://asntech.github.io/format-free-journals/&#34; target=&#34;_blank&#34;&gt;list&lt;/a&gt; of format-free, YPYW (Your Paper Your Way) and B2J (bioRxiv to journal) journals.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We urge journals and the scientific community to adopt format-free initial submission policies, to put science first and formatting after.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://errantscience.com/wp-content/uploads/Not-very-aspirational-poster-resubmit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Put science first and formatting later</title>
+      <link>https://asntech.github.io/publication/put-science-first-formating-later/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/put-science-first-formating-later/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JASPAR: a comprehensive database of transcription factor binding profiles</title>
+      <link>https://asntech.github.io/talk/jaspar-2018-biocuration/</link>
+      <pubDate>Wed, 11 Apr 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/talk/jaspar-2018-biocuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A database of fundings for postdocs &amp; ECRs</title>
       <link>https://asntech.github.io/post/database-of-fundings-for-postdocs/</link>
       <pubDate>Tue, 20 Feb 2018 12:00:00 +0000</pubDate>
@@ -239,36 +307,6 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
       
       <guid>https://asntech.github.io/talk/super-vs-stretch-enhancers_imb/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Intervene</title>
-      <link>https://asntech.github.io/project/intervene/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/project/intervene/</guid>
-      <description>&lt;p&gt;A common task for scientists relies on comparing lists of genes or genomic regions derived from high-throughput sequencing experiments. While several tools exist to intersect and visualize sets of genes, similar tools dedicated to the visualization of genomic region sets are currently limited. To address this gap, we have developed the Intervene tool, which provides an easy and automated interface for the effective intersection and visualization of genomic region or list sets, thus facilitating their analysis and interpretation. Intervene contains three modules: venn to generate Venn diagrams of up to six sets, upset to generate UpSet plots of multiple sets, and pairwise to compute and visualize intersections of multiple sets as clustered heat maps. Intervene, and its interactive web ShinyApp companion, generate publication-quality figures for the interpretation of genomic region and list sets. Intervene and its web application companion provide an easy command line, and an interactive web interface to compute intersections of multiple genomic and list sets. They also have the capacity to plot intersections using easy-to-interpret visual approaches. Intervene is developed and designed to meet the needs of both computer scientists and biologists. The source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/intervene&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/intervene&lt;/a&gt;, with the web application available at &lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>dbSUPER</title>
-      <link>https://asntech.github.io/project/dbsuper/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/project/dbsuper/</guid>
-      <description>&lt;p&gt;Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available. We developed dbSUPER (&lt;a href=&#34;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&lt;/a&gt;), the first integrated and interactive database of super-enhancers, with the primary goal of providing a resource for assistance in further studies related to transcriptional control of cell identity and disease. dbSUPER provides a responsive and user-friendly web interface to facilitate efficient and comprehensive search and browsing. The data can be easily sent to Galaxy instances, GREAT and Cistrome web-servers for downstream analysis, and can also be visualized in the UCSC genome browser where custom tracks can be added automatically. The data can be downloaded and exported in variety of formats. Furthermore, dbSUPER lists genes associated with super-enhancers and also links to external databases such as GeneCards, UniProt and Entrez. dbSUPER also provides an overlap analysis tool to annotate user-defined regions. We believe dbSUPER is a valuable resource for the biology and genetic research communities. A mirror website is available at &lt;a href=&#34;http://asntech.org/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://asntech.org/dbsuper/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to my new website using Hugo framework</title>
-      <link>https://asntech.github.io/post/welcome/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/post/welcome/</guid>
-      <description>&lt;p&gt;This is a welcome post about my new website using &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Academic Theme&lt;/a&gt; and the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
