@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Making genome browsers portable and personal</title>
+      <link>https://asntech.github.io/publication/give-library-for-genome-browsers/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/give-library-for-genome-browsers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioconda: sustainable and comprehensive software distribution for the life sciences</title>
+      <link>https://asntech.github.io/publication/bioconda/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/bioconda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Super-enhancers are transcriptionally more active and cell-type-specific than stretch enhancers</title>
       <link>https://asntech.github.io/publication/super-enhancers-vs-stretch-enhancers/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
@@ -198,15 +216,6 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
     </item>
     
     <item>
-      <title>Bioconda: A sustainable and comprehensive software distribution for the life sciences</title>
-      <link>https://asntech.github.io/publication/bioconda/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/bioconda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Time to make Venn diagrams UpSet</title>
       <link>https://asntech.github.io/post/time-to-make-venn-diagram-upset/</link>
       <pubDate>Sun, 20 Aug 2017 12:00:00 +0000</pubDate>
@@ -301,15 +310,6 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
       <pubDate>Thu, 27 Apr 2017 14:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/talk/super-enhancers-sevn_furberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrative analysis reveals genomic and epigenomic signatures of super-enhancers and its constituents</title>
-      <link>https://asntech.github.io/publication/super-enhancers-signatures-analysis/</link>
-      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/super-enhancers-signatures-analysis/</guid>
       <description></description>
     </item>
     
