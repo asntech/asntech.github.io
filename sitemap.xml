@@ -158,6 +158,24 @@
     
     <url>
     
+      <loc>https://asntech.github.io/project/intervene/</loc>
+      <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/project/intervene-web-app/</loc>
+      <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://asntech.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -196,15 +214,6 @@
     
       <loc>https://asntech.github.io/talk/super-vs-stretch-enhancers_imb/</loc>
       <lastmod>2016-11-30T09:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://asntech.github.io/project/intervene/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -277,7 +286,7 @@
     <url>
     
       <loc>https://asntech.github.io/publication_types/2/</loc>
-      <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+      <lastmod>2017-02-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -467,6 +476,16 @@
     
       <loc>https://asntech.github.io/tags/venn/</loc>
       <lastmod>2017-08-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/web-app/</loc>
+      <lastmod>2018-08-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
