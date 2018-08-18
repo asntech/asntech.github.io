@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A map of direct TF-DNA interactions in the human genome</title>
+      <link>https://asntech.github.io/publication/unibind/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/unibind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Making genome browsers portable and personal</title>
       <link>https://asntech.github.io/publication/give-library-for-genome-browsers/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
