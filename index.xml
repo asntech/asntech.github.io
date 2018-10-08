@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
+      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards a format-free submission policy: Let&#39;s put science first</title>
       <link>https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/</link>
       <pubDate>Thu, 12 Apr 2018 12:00:00 +0000</pubDate>
@@ -174,6 +183,15 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
     </item>
     
     <item>
+      <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
+      <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JASPAR database in a new look after 14 years</title>
       <link>https://asntech.github.io/post/jaspar-database-with-a-new-look/</link>
       <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
@@ -223,24 +241,6 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
 
 &lt;p&gt;P.S. If you&amp;rsquo;re curious about what JASPAR stands for, check &lt;a href=&#34;http://jaspar.genereg.net/faq/#who-is-jaspar-anyhow&#34; target=&#34;_blank&#34;&gt;FAQs&lt;/a&gt; ;-)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
-      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
-      <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
-      <description></description>
     </item>
     
     <item>
