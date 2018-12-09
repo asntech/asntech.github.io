@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Aziz Khan</copyright>
-    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/web-app/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UniBind</title>
       <link>https://asntech.github.io/project/unibind/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/unibind/</guid>
       <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
@@ -23,7 +23,7 @@
     <item>
       <title>JASPAR 2018</title>
       <link>https://asntech.github.io/project/jaspar-2018/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/jaspar-2018/</guid>
       <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
