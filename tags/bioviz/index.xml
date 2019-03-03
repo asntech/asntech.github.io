@@ -26,7 +26,7 @@
 
 &lt;p&gt;However, with a large number of sets, UpSet plots also become an ineffective way of illustrating set intersections. To visualize a large number of sets, one can represent pairwise intersections using a clustered heatmap.&lt;/p&gt;
 
-&lt;p&gt;To have these three options in one tool, I developed &amp;lsquo;Intervene&amp;rsquo;, for effective intersection and visualization of genomic regions or name list sets and to generate publication-quality figures. Intervene has 3 modules:&lt;/p&gt;
+&lt;p&gt;To have these three options in one tool, we developed &amp;lsquo;Intervene&amp;rsquo;, for effective intersection and visualization of genomic regions or name list sets and to generate publication-quality figures. Intervene has 3 modules:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets,&lt;/li&gt;
@@ -60,7 +60,7 @@
 &lt;p&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;More more details, you can read our manuscript which appeared in the journal &lt;em&gt;BMC Bioinformatics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For more details, you can read our manuscript which appeared in the journal &lt;em&gt;BMC Bioinformatics&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Khan A., and Mathelier A. (2017) Intervene: a tool for intersection and visualization of multiple gene or genomic region sets, BMC Bioinformatics. 18(1):287. doi:&lt;a href=&#34;https://doi.org/10.1186/s12859-017-1708-7&#34; target=&#34;_blank&#34;&gt;10.1186/s12859-017-1708-7&lt;/a&gt;&lt;/p&gt;
