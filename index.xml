@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering Protein-RNA Crosslink Sites</title>
+      <link>https://asntech.github.io/publication/mcross/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/mcross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My worst Journal shopping and peer-review experience</title>
       <link>https://asntech.github.io/post/my-worst-journal-shopping-and-peer-review-experience/</link>
       <pubDate>Wed, 27 Feb 2019 12:00:00 +0000</pubDate>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/unibind/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites</title>
-      <link>https://asntech.github.io/publication/mcross/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/mcross/</guid>
       <description></description>
     </item>
     
