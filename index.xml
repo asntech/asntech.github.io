@@ -20,6 +20,32 @@
     </item>
     
     <item>
+      <title>ECRcentral</title>
+      <link>https://asntech.github.io/project/ecrcentral/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/ecrcentral/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ECRcentral&lt;/a&gt; is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities. You can read more about how you can get involved here.&lt;/p&gt;
+
+&lt;p&gt;The platform is developed using open source technology, with all source code and documentation available publically. All the source code and related content are openly available through our &lt;a href=&#34;https://github.com/ecrcentral/&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;, so the community can contribute and/or reuse the code.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral aims to bring early career researchers together to discuss funding opportunities, share experiences, and create impact through community engagement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mCrossBase</title>
+      <link>https://asntech.github.io/project/mcrossbase/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/mcrossbase/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zhanglab.c2b2.columbia.edu/mCrossBase/&#34; target=&#34;_blank&#34;&gt;mCrossBase&lt;/a&gt; is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.molcel.2019.02.002&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.molcel.2019.02.002&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My worst Journal shopping and peer-review experience</title>
       <link>https://asntech.github.io/post/my-worst-journal-shopping-and-peer-review-experience/</link>
       <pubDate>Wed, 27 Feb 2019 12:00:00 +0000</pubDate>
@@ -223,55 +249,6 @@
       <guid>https://asntech.github.io/project/unibind/</guid>
       <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A database of funding for postdocs &amp; ECRs</title>
-      <link>https://asntech.github.io/post/database-of-fundings-for-postdocs/</link>
-      <pubDate>Tue, 20 Feb 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/post/database-of-fundings-for-postdocs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/postdoc-funding-schemes/postdoc-funding-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In early 2018, I became the &lt;a href=&#34;https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science&#34; target=&#34;_blank&#34;&gt;eLife Ambassador&lt;/a&gt; along with more than 150 others to work to catalyse improvements in the way science is communicated and performed.
-I have joined the initiatives, with focus on;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Science communication, publishing, funding, open access, open science, preprints, and reproducibility&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In the funding initiative, the eLife Ambassadors created a comprehensive Excel sheet of funding schemes and opportunities for postdocs and early career researchers. I then turned that Excel sheet into a searchable HTML &lt;a href=&#34;https://asntech.github.io/postdoc-funding-schemes/&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt;, which was later taken off on Twitter.
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Very useful for all &lt;a href=&#34;https://twitter.com/hashtag/postdocs?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#postdocs&lt;/a&gt;: List of &lt;a href=&#34;https://twitter.com/hashtag/funding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#funding&lt;/a&gt; schemes and opportunities for postdoctoral &lt;a href=&#34;https://twitter.com/hashtag/fellowships?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#fellowships&lt;/a&gt; &lt;a href=&#34;https://t.co/geFXpH6GFn&#34;&gt;https://t.co/geFXpH6GFn&lt;/a&gt; created by &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt; &lt;a href=&#34;https://twitter.com/eLifeCommunity?ref_src=twsrc%5Etfw&#34;&gt;@eLifeCommunity&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lotte de Winde (@lotte_dewinde) &lt;a href=&#34;https://twitter.com/lotte_dewinde/status/959178973593985025?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2018&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here’s a list of funding schemes and opportunities for postdoctoral fellowships curated/edited by myself and &lt;a href=&#34;https://twitter.com/khanaziz84?ref_src=twsrc%5Etfw&#34;&gt;@khanaziz84&lt;/a&gt; &lt;a href=&#34;https://t.co/rq3mgsUDPp&#34;&gt;https://t.co/rq3mgsUDPp&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt; &lt;a href=&#34;https://twitter.com/eLifeCommunity?ref_src=twsrc%5Etfw&#34;&gt;@eLifeCommunity&lt;/a&gt; &lt;a href=&#34;https://twitter.com/eLife?ref_src=twsrc%5Etfw&#34;&gt;@eLife&lt;/a&gt;&lt;/p&gt;&amp;mdash; Juan Quintana, PhD. (@Jquintanalcala) &lt;a href=&#34;https://twitter.com/Jquintanalcala/status/959144479356747777?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This is an awesome catalogue of postdoc funding opportunities: &amp;gt;230 grant schemes worldwide w/ links, duration, eligibility (h/t &lt;a href=&#34;https://twitter.com/DieterLukas?ref_src=twsrc%5Etfw&#34;&gt;@DieterLukas&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Jquintanalcala?ref_src=twsrc%5Etfw&#34;&gt;@Jquintanalcala&lt;/a&gt; &lt;a href=&#34;https://twitter.com/khanaziz84?ref_src=twsrc%5Etfw&#34;&gt;@khanaziz84&lt;/a&gt;) &lt;a href=&#34;https://t.co/z2stFr5IHW&#34;&gt;https://t.co/z2stFr5IHW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Inouye (@minouye271) &lt;a href=&#34;https://twitter.com/minouye271/status/960056071187410944?ref_src=twsrc%5Etfw&#34;&gt;February 4, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Post-doc and PhD friends! &lt;br&gt;Here is a very useful list of 244 different funding opportunities worldwide &lt;a href=&#34;https://t.co/wsIXlYEhZE&#34;&gt;https://t.co/wsIXlYEhZE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hannah Whitby (@CopperChemist) &lt;a href=&#34;https://twitter.com/CopperChemist/status/977101690888491008?ref_src=twsrc%5Etfw&#34;&gt;March 23, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/postdoc-funding-schemes/travel-grants.png&#34; alt=&#34;&#34; /&gt;
-Then the Ambassadors Lotte de Winde et al. created a detailed list of travel funding opportunities for postdocs, which is now available &lt;a href=&#34;https://asntech.github.io/postdoc-funding-schemes/travel-grants/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I made a list with travel funding opportunities for postdocs: &lt;a href=&#34;https://t.co/mwTiqMqv8C&#34;&gt;https://t.co/mwTiqMqv8C&lt;/a&gt;&lt;br&gt;List is not complete yet - which ones are missing?&lt;a href=&#34;https://twitter.com/hashtag/postdoc?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#postdoc&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/funding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#funding&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lotte de Winde (@lotte_dewinde) &lt;a href=&#34;https://twitter.com/lotte_dewinde/status/970599315231166464?ref_src=twsrc%5Etfw&#34;&gt;March 5, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here&amp;#39;s a great list of &amp;gt;60 travel grant opportunities for postdocs and ECRs &lt;a href=&#34;https://t.co/KvTNfhqSSd&#34;&gt;https://t.co/KvTNfhqSSd&lt;/a&gt; curated by &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt; &lt;a href=&#34;https://twitter.com/lotte_dewinde?ref_src=twsrc%5Etfw&#34;&gt;@lotte_dewinde&lt;/a&gt; et al. &lt;a href=&#34;https://twitter.com/hashtag/funding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#funding&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/970894803541151744?ref_src=twsrc%5Etfw&#34;&gt;March 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We encourage the community to help to add new funding opportunities to the list by using the submit tab in the links. You can also &lt;a href=&#34;https://github.com/asntech/postdoc-funding-schemes&#34; target=&#34;_blank&#34;&gt;fork&lt;/a&gt; GitHub repo and submit a pull request.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Now this funding list became ECRcentral &lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ecrcentral.org&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
-      <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
-      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -7,8 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Aziz Khan</copyright>
-    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/web-app/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ECRcentral</title>
+      <link>https://asntech.github.io/project/ecrcentral/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/ecrcentral/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ECRcentral&lt;/a&gt; is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities. You can read more about how you can get involved here.&lt;/p&gt;
+
+&lt;p&gt;The platform is developed using open source technology, with all source code and documentation available publically. All the source code and related content are openly available through our &lt;a href=&#34;https://github.com/ecrcentral/&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;, so the community can contribute and/or reuse the code.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral aims to bring early career researchers together to discuss funding opportunities, share experiences, and create impact through community engagement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mCrossBase</title>
+      <link>https://asntech.github.io/project/mcrossbase/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/mcrossbase/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zhanglab.c2b2.columbia.edu/mCrossBase/&#34; target=&#34;_blank&#34;&gt;mCrossBase&lt;/a&gt; is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.molcel.2019.02.002&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.molcel.2019.02.002&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>UniBind</title>
