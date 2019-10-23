@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Conference</title>
+      <link>https://asntech.github.io/tags/conference/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Database</title>
       <link>https://asntech.github.io/tags/database/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
@@ -84,6 +93,24 @@
     </item>
     
     <item>
+      <title>Open Science</title>
+      <link>https://asntech.github.io/tags/open-science/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://asntech.github.io/tags/open-source/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Opinion</title>
       <link>https://asntech.github.io/tags/opinion/</link>
       <pubDate>Thu, 12 Apr 2018 12:00:00 +0000</pubDate>
@@ -116,33 +143,6 @@
       <pubDate>Wed, 27 Feb 2019 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/tags/publishing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resource</title>
-      <link>https://asntech.github.io/tags/resource/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/resource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tool</title>
-      <link>https://asntech.github.io/tags/tool/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/tool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Upset</title>
-      <link>https://asntech.github.io/tags/upset/</link>
-      <pubDate>Sun, 20 Aug 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/tags/upset/</guid>
       <description></description>
     </item>
     

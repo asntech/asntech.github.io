@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://asntech.github.io/post/computational-biology-without-borders/</loc>
+      <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://asntech.github.io/publication/mcross/</loc>
       <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     </url>
@@ -388,6 +397,16 @@
     
     <url>
     
+      <loc>https://asntech.github.io/tags/conference/</loc>
+      <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://asntech.github.io/tags/database/</loc>
       <lastmod>2019-06-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -430,6 +449,26 @@
     
       <loc>https://asntech.github.io/tags/jaspar/</loc>
       <lastmod>2018-01-01T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/open-science/</loc>
+      <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/tags/open-source/</loc>
+      <lastmod>2019-10-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
