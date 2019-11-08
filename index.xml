@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>JASPAR 2020: update of the open-access database of transcription factor binding profiles</title>
+      <link>https://asntech.github.io/publication/jaspar-database-2020-nar/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/jaspar-database-2020-nar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational biology without borders</title>
       <link>https://asntech.github.io/post/computational-biology-without-borders/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
@@ -325,15 +334,6 @@
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/put-science-first-formating-later/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JASPAR: a comprehensive database of transcription factor binding profiles</title>
-      <link>https://asntech.github.io/talk/jaspar-2018-biocuration/</link>
-      <pubDate>Wed, 11 Apr 2018 13:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/talk/jaspar-2018-biocuration/</guid>
       <description></description>
     </item>
     
