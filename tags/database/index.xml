@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
-    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/database/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JASPAR database</title>
+      <link>https://asntech.github.io/project/jaspar-2018/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-2018/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UniBind</title>
+      <link>https://asntech.github.io/project/unibind/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/unibind/</guid>
+      <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ECRcentral</title>
@@ -33,16 +53,6 @@
       
       <guid>https://asntech.github.io/project/mcrossbase/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://zhanglab.c2b2.columbia.edu/mCrossBase/&#34; target=&#34;_blank&#34;&gt;mCrossBase&lt;/a&gt; is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.molcel.2019.02.002&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.molcel.2019.02.002&lt;/a&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UniBind</title>
-      <link>https://asntech.github.io/project/unibind/</link>
-      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/project/unibind/</guid>
-      <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
 </description>
     </item>
     
@@ -95,16 +105,6 @@
 &lt;p&gt;I&amp;rsquo;m very excited to be part of JASPAR consortium and contribute to this great resource.&lt;/p&gt;
 
 &lt;p&gt;P.S. If you&amp;rsquo;re curious about what JASPAR stands for, check &lt;a href=&#34;http://jaspar.genereg.net/faq/#who-is-jaspar-anyhow&#34; target=&#34;_blank&#34;&gt;FAQs&lt;/a&gt; ;-)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>JASPAR 2018</title>
-      <link>https://asntech.github.io/project/jaspar-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/project/jaspar-2018/</guid>
-      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
 </description>
     </item>
     

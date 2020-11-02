@@ -5,8 +5,26 @@
     
     <url>
     
+      <loc>https://asntech.github.io/publication/biasaway/</loc>
+      <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://asntech.github.io/publication/a-call-for-improving-conferences/</loc>
       <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/project/jaspar-2018/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -25,6 +43,15 @@
     
       <loc>https://asntech.github.io/post/computational-biology-without-borders/</loc>
       <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://asntech.github.io/project/unibind/</loc>
+      <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -158,15 +185,6 @@
     
     <url>
     
-      <loc>https://asntech.github.io/project/unibind/</loc>
-      <lastmod>2018-04-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://asntech.github.io/post/database-of-fundings-for-postdocs/</loc>
       <lastmod>2018-02-20T12:00:00+00:00</lastmod>
     </url>
@@ -178,15 +196,6 @@
     
       <loc>https://asntech.github.io/post/jaspar-database-with-a-new-look/</loc>
       <lastmod>2018-01-01T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://asntech.github.io/project/jaspar-2018/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -338,15 +347,6 @@
     
     <url>
     
-      <loc>https://asntech.github.io/publication/a-hybrid-feature-selection-approach/</loc>
-      <lastmod>2011-08-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</loc>
       <lastmod>2010-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -357,7 +357,7 @@
     <url>
     
       <loc>https://asntech.github.io/publication_types/1/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+      <lastmod>2020-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -368,16 +368,6 @@
     
       <loc>https://asntech.github.io/publication_types/2/</loc>
       <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://asntech.github.io/publication_types/3/</loc>
-      <lastmod>2011-08-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -436,7 +426,7 @@
     <url>
     
       <loc>https://asntech.github.io/tags/database/</loc>
-      <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -536,7 +526,7 @@
     <url>
     
       <loc>https://asntech.github.io/project/</loc>
-      <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -546,7 +536,7 @@
     <url>
     
       <loc>https://asntech.github.io/publication_types/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+      <lastmod>2020-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -616,7 +606,7 @@
     <url>
     
       <loc>https://asntech.github.io/tags/web-app/</loc>
-      <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

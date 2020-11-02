@@ -11,12 +11,31 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BiasAway: command-line and web server to generate nucleotide composition-matched DNA background sequences</title>
+      <link>https://asntech.github.io/publication/biasaway/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/biasaway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluating features of scientific conferences: A call for improvements</title>
       <link>https://asntech.github.io/publication/a-call-for-improving-conferences/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/a-call-for-improving-conferences/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>JASPAR database</title>
+      <link>https://asntech.github.io/project/jaspar-2018/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/jaspar-2018/</guid>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -121,6 +140,16 @@
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Goodbye &lt;a href=&#34;https://twitter.com/hashtag/Basel?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Basel&lt;/a&gt;!! &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB&lt;/a&gt; was great as always. &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB2019&lt;/a&gt; was more special because my former, current, and future PIs were there too. &lt;a href=&#34;https://t.co/1qFy0vxVXw&#34;&gt;pic.twitter.com/1qFy0vxVXw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1155005378079395841?ref_src=twsrc%5Etfw&#34;&gt;July 27, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UniBind</title>
+      <link>https://asntech.github.io/project/unibind/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/project/unibind/</guid>
+      <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
 </description>
     </item>
     
@@ -254,87 +283,6 @@
       
       <guid>https://asntech.github.io/publication/give-library-for-genome-browsers/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Bioconda: sustainable and comprehensive software distribution for the life sciences</title>
-      <link>https://asntech.github.io/publication/bioconda/</link>
-      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/bioconda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JASPAR RESTful API: accessing JASPAR data from any programming language</title>
-      <link>https://asntech.github.io/publication/jaspar-rest-api/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/jaspar-rest-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a format-free submission policy: Let&#39;s put science first</title>
-      <link>https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/</link>
-      <pubDate>Thu, 12 Apr 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/</guid>
-      <description>&lt;p&gt;Most academic journals have stringent manuscript formatting guidelines that authors must follow before making an initial submission. This process is extremely time consuming and, in many cases, has to be repeated multiple times for submission to a new journal after rejection.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Formatting has no impact on the scientific basis of a manuscript, and style plays no role in the ability to judge its scientific content.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is, therefore, essential to stop these unnecessary and wasteful cycles of formatting to save time and resources.&lt;/p&gt;
-
-&lt;p&gt;Isabelle M Côté a professor of Marine Ecology at Simon Fraser University took it to Twitter and asked journals to impose format requirements once a paper is accepted.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Wouldn&amp;#39;t it be great if publishers required journal-specific formatting only after MS acceptance? So much time is wasted reformatting papers &lt;a href=&#34;https://t.co/wCtNq75obg&#34;&gt;pic.twitter.com/wCtNq75obg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Isabelle M Côté (@redlipblenny) &lt;a href=&#34;https://twitter.com/redlipblenny/status/915382785266802688?ref_src=twsrc%5Etfw&#34;&gt;October 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;The good news is some journals already start accepting format-free initial submissions, such as Bioinformatics.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Good to know that the Bioinformatics journal no longer require to format first submissions according to their guidelines.&lt;br&gt;&lt;br&gt;Science first, format later! &lt;br&gt;&lt;br&gt;I hope other journals will allow too. &lt;a href=&#34;https://twitter.com/hashtag/FormatFreeSubmissions?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#FormatFreeSubmissions&lt;/a&gt; &lt;a href=&#34;https://t.co/MYxFRVdKnG&#34;&gt;pic.twitter.com/MYxFRVdKnG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/931310161591001088?ref_src=twsrc%5Etfw&#34;&gt;November 16, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We propose a universal ‘format-free’ initial submission policy, which has the following characteristics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Structure-free abstract&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Order-free sections&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Style-free references&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Format-free figures and tables&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Format-free manuscript file&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For more details, read our policy piece on format-free, which just appeared in the journal &lt;em&gt;EMBO reports&lt;/em&gt; as an opinion article.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan A., Montenegro-Montero A., and Mathelier A. (2018) Put science first and formatting later, doi:&lt;a href=&#34;https://doi.org/10.15252/embr.201845731&#34; target=&#34;_blank&#34;&gt;10.15252/embr.201845731 &lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We also created a &lt;a href=&#34;https://asntech.github.io/format-free-journals/&#34; target=&#34;_blank&#34;&gt;list&lt;/a&gt; of format-free, YPYW (Your Paper Your Way) and B2J (bioRxiv to journal) journals.&lt;/p&gt;
-
-&lt;p&gt;The community greatly appreciated this initiative and our opinion piece in EMBO reports got good attention on Twitter. Here is tweet in Japanese language by Haruka Ozaki a Computational biologist at RIKEN, Japan.
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;「科学が先、形式は後」Put science first and formatting later | EMBO Reports &lt;a href=&#34;https://t.co/rGpdUdMKeG&#34;&gt;https://t.co/rGpdUdMKeG&lt;/a&gt;&lt;br&gt;再投稿の度に再フォーマットするのは時間の無駄なので「自由なフォーマットでの投稿・査読」を多くの雑誌で可能にしようという提案。生命科学系300誌のリジェクト率のグラフは説得力がある。 &lt;a href=&#34;https://t.co/uFfGMiGe71&#34;&gt;pic.twitter.com/uFfGMiGe71&lt;/a&gt;&lt;/p&gt;&amp;mdash; Haruka Ozaki (@yuifu) &lt;a href=&#34;https://twitter.com/yuifu/status/987294091837763585?ref_src=twsrc%5Etfw&#34;&gt;April 20, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We urge journals and the scientific community to adopt format-free initial submission policies, to put science first and formatting after.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Our opinion article also received eight recommendations on &lt;a href=&#34;https://f1000.com/prime/733031605?key=QuhHHVzZ1WVOhqq&#34; target=&#34;_blank&#34;&gt;F1000Prime&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Olivier Perts and Jakobus Van Unen from University of Bern, Switzerland wrote this:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In this opinion article, Khan and colleagues make the long overdue case for format-free first submissions of manuscripts to peer-reviewed scientific journals. Their estimated number of taxpayer-financed hours wasted by scientists on reformatting rejected manuscripts is daunting and, unfortunately, most likely realistic.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is highly &lt;a href=&#34;https://f1000.com/prime/rankings&#34; target=&#34;_blank&#34;&gt;ranked&lt;/a&gt; in the current top 10 and hidden jewels category on F1000Prime.
-&lt;img src=&#34;https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

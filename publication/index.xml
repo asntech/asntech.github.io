@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BiasAway: command-line and web server to generate nucleotide composition-matched DNA background sequences</title>
+      <link>https://asntech.github.io/publication/biasaway/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/biasaway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluating features of scientific conferences: A call for improvements</title>
       <link>https://asntech.github.io/publication/a-call-for-improving-conferences/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/dbsuper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hybrid feature selection approach by combining miD and miQ</title>
-      <link>https://asntech.github.io/publication/a-hybrid-feature-selection-approach/</link>
-      <pubDate>Thu, 25 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/a-hybrid-feature-selection-approach/</guid>
       <description></description>
     </item>
     
