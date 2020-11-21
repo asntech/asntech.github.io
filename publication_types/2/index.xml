@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UniBind: maps of high-confidence direct TF-DNA interactions across nine species</title>
+      <link>https://asntech.github.io/publication/unibind-v2-2021/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/unibind-v2-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating features of scientific conferences: A call for improvements</title>
