@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://asntech.github.io/tags/resource/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/resource/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ECRcentral</title>
@@ -18,8 +16,14 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/ecrcentral/</guid>
-      <description>ECRcentral is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.
-ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ECRcentral&lt;/a&gt; is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities. You can read more about how you can get involved here.&lt;/p&gt;
+
+&lt;p&gt;The platform is developed using open source technology, with all source code and documentation available publically. All the source code and related content are openly available through our &lt;a href=&#34;https://github.com/ecrcentral/&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;, so the community can contribute and/or reuse the code.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral aims to bring early career researchers together to discuss funding opportunities, share experiences, and create impact through community engagement.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -7,10 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
-    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://asntech.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Changing scientific meetings for the better</title>
+      <link>https://asntech.github.io/publication/a-call-for-improving-conferences/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/a-call-for-improving-conferences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A call to eradicate non-inclusive terms from the life sciences</title>
@@ -18,6 +25,15 @@
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/a-call-to-eradicate-non-inclusive-terms-from-the-life-sciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19: students caught in Pakistan&#39;s digital divide</title>
+      <link>https://asntech.github.io/publication/pakistan-digital-divide/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/pakistan-digital-divide/</guid>
       <description></description>
     </item>
     
@@ -127,42 +143,6 @@
       
       <guid>https://asntech.github.io/publication/put-science-first-formating-later/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework</title>
-      <link>https://asntech.github.io/publication/jaspar-database-2018-nar/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intervene: a tool for intersection and visualization of multiple gene or genomic region sets</title>
-      <link>https://asntech.github.io/publication/intervene/</link>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/intervene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dbSUPER: a database of super-enhancers in mouse and human genome</title>
-      <link>https://asntech.github.io/publication/dbsuper/</link>
-      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/dbsuper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptive Watermark Strength Selection using Particle Swarm Optimization</title>
-      <link>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</guid>
-      <description>,</description>
     </item>
     
   </channel>

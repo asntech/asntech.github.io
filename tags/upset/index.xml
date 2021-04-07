@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://asntech.github.io/tags/upset/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/upset/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Time to make Venn diagrams UpSet</title>
@@ -18,7 +16,58 @@
       <pubDate>Sun, 20 Aug 2017 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/time-to-make-venn-diagram-upset/</guid>
-      <description>For decades Venn diagrams (created by John Venn in 1880) have been a primary way to show set intersections. Although Venn diagrams are very useful in set theory but not scalable if the number of sets increases more than four, it is very difficult to understand them. Also, it’s not possible to show more than 6 sets in a Venn diagram. For example, the below six-way Venn diagram shows the distribution of shared gene families among six genomes, taken from D’Hont et al.</description>
+      <description>&lt;p&gt;For decades &lt;a href=&#34;https://en.wikipedia.org/wiki/Venn_diagram&#34; target=&#34;_blank&#34;&gt;Venn diagrams&lt;/a&gt; (created by &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Venn&#34; target=&#34;_blank&#34;&gt;John Venn&lt;/a&gt; in 1880) have been a primary way to show set intersections. Although Venn diagrams are very useful in set theory but not scalable if the number of sets increases more than four, it is very difficult to understand them. Also, it’s not possible to show more than 6 sets in a Venn diagram. For example, the below six-way Venn diagram shows the distribution of shared gene families among six genomes, taken from &lt;a href=&#34;https://www.nature.com/articles/nature11241&#34; target=&#34;_blank&#34;&gt;D’Hont et al. (2012) Nature&lt;/a&gt;, is very complicated to understand.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.nature.com/lw926/nature-assets/nature/journal/v488/n7410/images/nature11241-f4.2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;An alternative approach, named &lt;a href=&#34;http://caleydo.org/tools/upset/&#34; target=&#34;_blank&#34;&gt;UpSet&lt;/a&gt;, was introduced by &lt;a href=&#34;http://gehlenborglab.org/&#34; target=&#34;_blank&#34;&gt;Nils Gehlenborg&amp;rsquo;s&lt;/a&gt; lab at Harvard Medical School to depict the intersection of more than three sets. The advantage of UpSet plots is their capacity to rank the intersections and alternatively hide combinations without intersection, which is not possible using a Venn diagram. There is also an awesome R package &lt;a href=&#34;https://cran.r-project.org/package=UpSetR&#34; target=&#34;_blank&#34;&gt;UpSetR&lt;/a&gt;. Below, the above Venn diagram was turned into UpSet, and it looks cool and easy to find where are highest intersections. To know more about UpSet plots, it&amp;rsquo;s recommended to read Nils &lt;a href=&#34;https://www.slideshare.net/ngehlenborg/relaxation-techniques-for-the-upset-data-scientist&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, with a large number of sets, UpSet plots also become an ineffective way of illustrating set intersections. To visualize a large number of sets, one can represent pairwise intersections using a clustered heatmap.&lt;/p&gt;
+
+&lt;p&gt;To have these three options in one tool, we developed &amp;lsquo;Intervene&amp;rsquo;, for effective intersection and visualization of genomic regions or name list sets and to generate publication-quality figures. Intervene has 3 modules:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;pairwise&lt;/strong&gt; to compute and visualize intersections of multiple sets as clustered heat maps, and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;venn&lt;/strong&gt; to generate Venn diagrams of up to six sets (for folks who still love Venn diagrams)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/img/Intervene_pairwise_frac-ses.png&#34; alt=&#34;SEs&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Intervene comes with a Python-based command line interface, which can easily be installed through &lt;em&gt;bioconda&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;conda install -c bioconda intervene
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Or through PyPi&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install intervene
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The source code is freely available on GitHub and Bitbucket&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bitbucket: &lt;a href=&#34;https://bitbucket.org/CBGR/intervene&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/intervene&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I also developed an interactive Shiny web application which is available at:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more details, you can read our manuscript which appeared in the journal &lt;em&gt;BMC Bioinformatics&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Khan A., and Mathelier A. (2017) Intervene: a tool for intersection and visualization of multiple gene or genomic region sets, BMC Bioinformatics. 18(1):287. doi:&lt;a href=&#34;https://doi.org/10.1186/s12859-017-1708-7&#34; target=&#34;_blank&#34;&gt;10.1186/s12859-017-1708-7&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://intervene.readthedocs.io/en/latest/_images/Intervene_sketch.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

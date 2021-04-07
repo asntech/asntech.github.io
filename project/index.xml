@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://asntech.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>JASPAR database</title>
@@ -18,7 +16,8 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/jaspar-2018/</guid>
-      <description>JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at http://jaspar.genereg.net and the source code is freely available at https://bitbucket.org/CBGR/jaspar under GPL v3 license.</description>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +26,8 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/unibind/</guid>
-      <description>UniBind (http://unibind.uio.no/) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions.</description>
+      <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,8 +36,14 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/ecrcentral/</guid>
-      <description>ECRcentral is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.
-ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ECRcentral&lt;/a&gt; is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities. You can read more about how you can get involved here.&lt;/p&gt;
+
+&lt;p&gt;The platform is developed using open source technology, with all source code and documentation available publically. All the source code and related content are openly available through our &lt;a href=&#34;https://github.com/ecrcentral/&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;, so the community can contribute and/or reuse the code.&lt;/p&gt;
+
+&lt;p&gt;ECRcentral aims to bring early career researchers together to discuss funding opportunities, share experiences, and create impact through community engagement.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,7 +52,8 @@ ECRcentral is a community-driven initiative which was started by eLife Ambassado
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/mcrossbase/</guid>
-      <description>mCrossBase is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: https://doi.org/10.1016/j.molcel.2019.02.002).</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zhanglab.c2b2.columbia.edu/mCrossBase/&#34; target=&#34;_blank&#34;&gt;mCrossBase&lt;/a&gt; is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.molcel.2019.02.002&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.molcel.2019.02.002&lt;/a&gt;).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,7 +62,8 @@ ECRcentral is a community-driven initiative which was started by eLife Ambassado
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/jaspar-rest-api/</guid>
-      <description>JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. Currently, data from JASPAR can be retrieved as flat files or by using programming language-specific interfaces. Here, we present a programming language-independent application programming interface (API) to access JASPAR data using the Representational State Transfer (REST) architecture. The REST API enables programmatic access to JASPAR by most programming languages and returns data in seven widely used formats.</description>
+      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. Currently, data from JASPAR can be retrieved as flat files or by using programming language-specific interfaces. Here, we present a programming language-independent application programming interface (API) to access JASPAR data using the Representational State Transfer (REST) architecture. The REST API enables programmatic access to JASPAR by most programming languages and returns data in seven widely used formats. Further, it provides an endpoint to infer the TF binding profile(s) likely bound by a given DNA binding domain protein sequence. Additionally, it provides an interactive browsable interface for bioinformatics tool developers. The REST API is implemented in Python using the Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net/api/&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net/api/&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -64,9 +72,37 @@ ECRcentral is a community-driven initiative which was started by eLife Ambassado
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/intervene/</guid>
-      <description>Intervene is a command line tool for intersection and visualization of genomic region and gene/name sets as Venn diagram, UpSet plots, and heatmaps.
-Intervene contains three modules:
- venn to generate Venn diagrams of up to six sets, upset to generate UpSet plots of multiple sets, and pairwise to compute and visualize intersections of multiple sets as clustered heat maps.  Intervene provides an easy to use command line interface to perform set analysis and generate publication-quality figures.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Intervene&lt;/strong&gt; is a command line tool for intersection and visualization of genomic region and gene/name sets as Venn diagram, UpSet plots, and heatmaps.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intervene&lt;/strong&gt; contains three modules:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;venn&lt;/strong&gt; to generate Venn diagrams of up to six sets,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets, and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;pairwise&lt;/strong&gt; to compute and visualize intersections of multiple sets as clustered heat maps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Intervene provides an easy to use command line interface to perform set analysis and generate publication-quality figures.&lt;/p&gt;
+
+&lt;p&gt;The source code is available at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And a detailed documentation is available at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://intervene.rtfd.io/&#34; target=&#34;_blank&#34;&gt;http://intervene.rtfd.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A web-based version to compute intersections of multiple gene/name sets is available at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt; OR&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intervene.shinyapps.io/intervene/&#34; target=&#34;_blank&#34;&gt;https://intervene.shinyapps.io/intervene/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -75,9 +111,33 @@ Intervene contains three modules:
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/intervene-web-app/</guid>
-      <description>Intervene Web App is an interactive and user-friendly Shiny-based application for effective intersection and visualization of list/name sets as Venn diagram, UpSet plots, and heatmaps.
-Intervene contains three modules:
- venn to generate Venn diagrams of up to six sets, upset to generate UpSet plots of multiple sets, and pairwise to compute and visualize intersections of multiple sets as clustered heat maps.  Intervene provides an easy and interactive web interface to perform set analysis and generate publication-quality figures.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Intervene Web App&lt;/strong&gt; is an interactive and user-friendly Shiny-based application for effective intersection and visualization of list/name sets as Venn diagram, UpSet plots, and heatmaps.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intervene&lt;/strong&gt; contains three modules:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;venn&lt;/strong&gt; to generate Venn diagrams of up to six sets,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets, and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;pairwise&lt;/strong&gt; to compute and visualize intersections of multiple sets as clustered heat maps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Intervene provides an easy and interactive web interface to perform set analysis and generate publication-quality figures.&lt;/p&gt;
+
+&lt;p&gt;Web application is available at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt; OR&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intervene.shinyapps.io/intervene/&#34; target=&#34;_blank&#34;&gt;https://intervene.shinyapps.io/intervene/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the source code is freely available at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/asntech/intervene-shiny&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene-shiny&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A command line version to compute intersections of multiple genomic and list sets is available at: &lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -86,7 +146,8 @@ Intervene contains three modules:
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/dbsuper/</guid>
-      <description>Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available.</description>
+      <description>&lt;p&gt;Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available. We developed dbSUPER (&lt;a href=&#34;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&lt;/a&gt;), the first integrated and interactive database of super-enhancers, with the primary goal of providing a resource for assistance in further studies related to transcriptional control of cell identity and disease. dbSUPER provides a responsive and user-friendly web interface to facilitate efficient and comprehensive search and browsing. The data can be easily sent to Galaxy instances, GREAT and Cistrome web-servers for downstream analysis, and can also be visualized in the UCSC genome browser where custom tracks can be added automatically. The data can be downloaded and exported in variety of formats. Furthermore, dbSUPER lists genes associated with super-enhancers and also links to external databases such as GeneCards, UniProt and Entrez. dbSUPER also provides an overlap analysis tool to annotate user-defined regions. We believe dbSUPER is a valuable resource for the biology and genetic research communities. A mirror website is available at &lt;a href=&#34;http://asntech.org/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://asntech.org/dbsuper/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
