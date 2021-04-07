@@ -8,7 +8,18 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://asntech.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A call to eradicate non-inclusive terms from the life sciences</title>
+      <link>https://asntech.github.io/publication/a-call-to-eradicate-non-inclusive-terms-from-the-life-sciences/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/a-call-to-eradicate-non-inclusive-terms-from-the-life-sciences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UniBind: maps of high-confidence direct TF-DNA interactions across nine species</title>
@@ -25,15 +36,6 @@
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/publication/biasaway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluating features of scientific conferences: A call for improvements</title>
-      <link>https://asntech.github.io/publication/a-call-for-improving-conferences/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://asntech.github.io/publication/a-call-for-improving-conferences/</guid>
       <description></description>
     </item>
     
@@ -143,6 +145,33 @@
       
       <guid>https://asntech.github.io/publication/jaspar-database-2018-nar/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Intervene: a tool for intersection and visualization of multiple gene or genomic region sets</title>
+      <link>https://asntech.github.io/publication/intervene/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/intervene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dbSUPER: a database of super-enhancers in mouse and human genome</title>
+      <link>https://asntech.github.io/publication/dbsuper/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/dbsuper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Watermark Strength Selection using Particle Swarm Optimization</title>
+      <link>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</guid>
+      <description>,</description>
     </item>
     
   </channel>

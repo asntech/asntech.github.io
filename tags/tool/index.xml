@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/tool/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://asntech.github.io/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JASPAR RESTful API</title>
@@ -16,8 +18,7 @@
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/jaspar-rest-api/</guid>
-      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. Currently, data from JASPAR can be retrieved as flat files or by using programming language-specific interfaces. Here, we present a programming language-independent application programming interface (API) to access JASPAR data using the Representational State Transfer (REST) architecture. The REST API enables programmatic access to JASPAR by most programming languages and returns data in seven widely used formats. Further, it provides an endpoint to infer the TF binding profile(s) likely bound by a given DNA binding domain protein sequence. Additionally, it provides an interactive browsable interface for bioinformatics tool developers. The REST API is implemented in Python using the Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net/api/&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net/api/&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
-</description>
+      <description>JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. Currently, data from JASPAR can be retrieved as flat files or by using programming language-specific interfaces. Here, we present a programming language-independent application programming interface (API) to access JASPAR data using the Representational State Transfer (REST) architecture. The REST API enables programmatic access to JASPAR by most programming languages and returns data in seven widely used formats.</description>
     </item>
     
     <item>
@@ -26,37 +27,9 @@
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/intervene/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Intervene&lt;/strong&gt; is a command line tool for intersection and visualization of genomic region and gene/name sets as Venn diagram, UpSet plots, and heatmaps.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intervene&lt;/strong&gt; contains three modules:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;venn&lt;/strong&gt; to generate Venn diagrams of up to six sets,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets, and&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pairwise&lt;/strong&gt; to compute and visualize intersections of multiple sets as clustered heat maps.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Intervene provides an easy to use command line interface to perform set analysis and generate publication-quality figures.&lt;/p&gt;
-
-&lt;p&gt;The source code is available at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And a detailed documentation is available at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://intervene.rtfd.io/&#34; target=&#34;_blank&#34;&gt;http://intervene.rtfd.io/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A web-based version to compute intersections of multiple gene/name sets is available at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt; OR&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://intervene.shinyapps.io/intervene/&#34; target=&#34;_blank&#34;&gt;https://intervene.shinyapps.io/intervene/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Intervene is a command line tool for intersection and visualization of genomic region and gene/name sets as Venn diagram, UpSet plots, and heatmaps.
+Intervene contains three modules:
+ venn to generate Venn diagrams of up to six sets, upset to generate UpSet plots of multiple sets, and pairwise to compute and visualize intersections of multiple sets as clustered heat maps.  Intervene provides an easy to use command line interface to perform set analysis and generate publication-quality figures.</description>
     </item>
     
     <item>
@@ -65,33 +38,9 @@
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/intervene-web-app/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Intervene Web App&lt;/strong&gt; is an interactive and user-friendly Shiny-based application for effective intersection and visualization of list/name sets as Venn diagram, UpSet plots, and heatmaps.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intervene&lt;/strong&gt; contains three modules:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;venn&lt;/strong&gt; to generate Venn diagrams of up to six sets,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets, and&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pairwise&lt;/strong&gt; to compute and visualize intersections of multiple sets as clustered heat maps.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Intervene provides an easy and interactive web interface to perform set analysis and generate publication-quality figures.&lt;/p&gt;
-
-&lt;p&gt;Web application is available at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt; OR&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://intervene.shinyapps.io/intervene/&#34; target=&#34;_blank&#34;&gt;https://intervene.shinyapps.io/intervene/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And the source code is freely available at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/asntech/intervene-shiny&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene-shiny&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A command line version to compute intersections of multiple genomic and list sets is available at: &lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Intervene Web App is an interactive and user-friendly Shiny-based application for effective intersection and visualization of list/name sets as Venn diagram, UpSet plots, and heatmaps.
+Intervene contains three modules:
+ venn to generate Venn diagrams of up to six sets, upset to generate UpSet plots of multiple sets, and pairwise to compute and visualize intersections of multiple sets as clustered heat maps.  Intervene provides an easy and interactive web interface to perform set analysis and generate publication-quality figures.</description>
     </item>
     
   </channel>

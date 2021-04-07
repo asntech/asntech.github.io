@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://asntech.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A call to eradicate non-inclusive terms from the life sciences</title>
+      <link>https://asntech.github.io/publication/a-call-to-eradicate-non-inclusive-terms-from-the-life-sciences/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/a-call-to-eradicate-non-inclusive-terms-from-the-life-sciences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiasAway: command-line and web server to generate nucleotide composition-matched DNA background sequences</title>
@@ -143,6 +154,15 @@
       
       <guid>https://asntech.github.io/publication/dbsuper/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Watermark Strength Selection using Particle Swarm Optimization</title>
+      <link>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/publication/adaptive-watermark-strength-selection-using-pso/</guid>
+      <description>,</description>
     </item>
     
   </channel>

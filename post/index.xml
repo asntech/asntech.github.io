@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://asntech.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Computational biology without borders</title>
@@ -16,94 +18,8 @@
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/computational-biology-without-borders/</guid>
-      <description>&lt;p&gt;&lt;small&gt;&lt;em&gt;I wrote this blog post for &lt;a href=&#34;https://www.open-bio.org/&#34; target=&#34;_blank&#34;&gt;Open Bioinformatics Foundation (OBF)&lt;/a&gt; and it was originally &lt;a href=&#34;https://www.open-bio.org/2019/10/15/computational-biology-without-borders/&#34; target=&#34;_blank&#34;&gt;posted&lt;/a&gt; on October 26, 2019 on OBF website. OBF supported me with a &lt;a href=&#34;https://www.open-bio.org/2019/05/31/travel-award-recipients-for-april-2019/&#34; target=&#34;_blank&#34;&gt;travel grant of $1000&lt;/a&gt; to attend the &lt;a href=&#34;https://www.iscb.org/ismbeccb2019&#34; target=&#34;_blank&#34;&gt;ISMB/ECCB&lt;/a&gt; and &lt;a href=&#34;https://www.open-bio.org/events/bosc/&#34; target=&#34;_blank&#34;&gt;BOSC 2019&lt;/a&gt; meeting in Basel, July 2019.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Computational tools and software are now becoming the core of scientific discovery, and making it open source and sharing it freely with the community helps to take scientific discoveries to the next level. We live in an era where international and interdisciplinary collaborations become very central to answer big scientific questions. Given science is becoming more collaborative and data-intensive, we need intelligent and robust computational algorithms to help us to understand and interpret such big-data.&lt;/p&gt;
-
-&lt;p&gt;Biology is no longer limited to PCR or gel electrophoresis. The high-throughput approaches to DNA sequencing at the genome and exome level are the state-of-the-art. For example, genomics and epigenomics are shifting from bulk sequencing to single-cell sequencing, which produces even more and sparse data. The (epi)genomics at single-cell can help us to understand the molecular mechanisms more precisely to understand disease and tumor biology. Integrative methods and software are needed to interpret multi-omics data at bulk and single-cell resolution to better understand the heterogeneity between cells, patients, or multi-region biopsies from a tumor. All these require open-source bioinformatics software and resources that are free and accessible for everyone.&lt;/p&gt;
-
-&lt;p&gt;The international community that develops such software and methods need a diverse and multidisciplinary platform to meet and share the latest developments in the field, fostering fresh dialogues and perspectives to learn about and shape the future of bioinformatics. And such a platform is provided by ISCB’s Intelligent Systems for Molecular Biology (ISMB) and European Conference on Computational Biology (ECCB) when they both meet in Europe every second year with diverse Communities of Special Interest (COSI) such as the &lt;a href=&#34;https://www.open-bio.org/events/bosc/&#34; target=&#34;_blank&#34;&gt;Bioinformatics Open Source Conference (BOSC)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;ISMB/ECCB is the world’s largest bioinformatics/computational biology meeting. I’ve been very lucky to attend three of those so far. I started my ISMB/ECCB journey when I was a Ph.D. student at Tsinghua University, China. In fact, first I joined the &lt;a href=&#34;https://www.iscbsc.org/&#34; target=&#34;_blank&#34;&gt;ISCB Student Council&lt;/a&gt;, a wonderful forum for early career researchers (ECR) in bioinformatics. I was part of the web-committee and later served as co-chair of the committee. I helped the community to organize and review student symposiums. If you’re an ECR in bioinformatics, I would definitely recommend joining the community. So, back to ISMB/ECCB, it was July 2015, I was accepted to present a poster and also to volunteer at ISMB/ECCB 2015 in Dublin. Of course, I saved the registration fee by volunteering but it also gave me an excellent opportunity to network. I met some of the great people in that meeting and we’re still connected. My second ISMB/ECCB was in 2017 in the beautiful city of Prague. Again, I signed up to volunteer and had a wonderful meeting and presented one of our open-source &lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;projects&lt;/a&gt; both at the Student Symposium and at the Regulatory and Systems Genomics (RegSys) COSI.&lt;/p&gt;
-
-&lt;p&gt;This year, 2019, the ISMB/ECCB came to Basel, a city in the heart of Europe, which shares its borders with France and Germany.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/1QRqzGT/IMG-20190726-084155-HDR.jpg&#34; alt=&#34;&#34; /&gt; &lt;em&gt;&lt;em&gt;The tripoint (Dreiländereck) where the borders of France, Germany and Switzerland meet.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I knew I wanted to attend, especially my favorite ISMB/ECCB COSI on the Regulatory and Systems Genomics (RegSys). And this year, my PI Anthony Mathelier was one of the organizers of RegSys. I always wanted to attend &lt;a href=&#34;https://www.open-bio.org/events/bosc/&#34; target=&#34;_blank&#34;&gt;BOSC&lt;/a&gt;, so I submitted our community initiative, ECRcentral, that aims to bring ECRs together to discuss funding opportunities, share experiences, and create impact through community engagement. ECRcentral was accepted for a long talk and on top of that, I got a &lt;a href=&#34;https://www.open-bio.org/2019/05/31/travel-award-recipients-for-april-2019/&#34; target=&#34;_blank&#34;&gt;travel fellowship&lt;/a&gt; from the &lt;a href=&#34;https://www.open-bio.org&#34; target=&#34;_blank&#34;&gt;Open Bioinformatics Foundation (OBF)&lt;/a&gt; to attend &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB2019?src=hash&#34; target=&#34;_blank&#34;&gt;#ISMBECCB2019&lt;/a&gt; and present &lt;a href=&#34;https://twitter.com/ECRcentral&#34; target=&#34;_blank&#34;&gt;@ECRcentral&lt;/a&gt; at &lt;a href=&#34;https://twitter.com/hashtag/BOSC2019?src=hash&#34; target=&#34;_blank&#34;&gt;#BOSC2019&lt;/a&gt;. What else do you need, right?&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Welcome to Basel&lt;/strong&gt;! We arrived in Basel on July 21st from Oslo, Norway.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;In Basel for &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB19&lt;/a&gt;! My 3rd &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB&lt;/a&gt; conference, looking forward to meet the community and 4 days of exciting science.&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1152994355537502208?ref_src=twsrc%5Etfw&#34;&gt;July 21, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Basel was on fire (~40°C), compared with 20°C in Oslo. While walking from the train station towards the hotel, we passed through a bridge (Basel has many bridges over the river Rhine) and saw many people floating down the Rhine to escape from the heat. For a while, it felt like liquid-liquid phase separation in biology, or maybe solid-liquid!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.open-bio.org/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg&#34; alt=&#34;&#34; /&gt; &lt;em&gt;&lt;em&gt;People are escaping from the heat by floating down the Rhine. &lt;a href=&#34;https://www.open-bio.org/2019/08/01/meeting-report-bosc-2019/&#34; target=&#34;_blank&#34;&gt;Picture credit&lt;/a&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I quickly checked-in, got fresh and ran to the conference venue. The conference kicked off in the San Francisco hall at Congress Center Basel with over 2,000 participants from all over the world, mainly from developed countries. I love the idea of naming conference rooms of Congress Center after different cities around the world like you could bump in Montreal from Delhi without border control. Anyway, I am not sure how many researchers couldn’t make it due to visa denials or solely due to lack of funding. I made it because as a European resident I don’t need a visa to enter Switzerland.&lt;/p&gt;
-
-&lt;p&gt;I found that at this year’s ISMB/ECCB “&lt;strong&gt;3&lt;/strong&gt;” was my lucky number. As I mentioned earlier, this was my 3rd ISMB/ECCB meeting with 3 participations (2 posters and 1 talk). And surprisingly, three of my mentors were in Basel for the meeting who came from three different continents, Asia, Europe, and North America. My former Ph.D. advisor &lt;em&gt;Xuegong Zhang&lt;/em&gt; from Tsinghua University, my current Postdoc PI &lt;em&gt;Anthony Mathelier&lt;/em&gt; from the University of Oslo and my next PI &lt;em&gt;Christina Curtis&lt;/em&gt; from Stanford University. This is the beauty of ISMB/ECCB, which connects us without borders although many of us have to cross several man-made borders. By the way, I am joining the Curtis lab this fall at Stanford as a research scientist. And congratulations to &lt;em&gt;Xuegong&lt;/em&gt; on getting elected as ISCB Board of Directors. Back to lucky number 3, I visited three countries (Switzerland, Germany, and France) in one day with a lunch in Switzerland, dinner in Germany and went for a walk to France.&lt;/p&gt;
-
-&lt;p&gt;Anyway, the first day of the conference started with an exciting &lt;a href=&#34;https://youtu.be/2OEQ0x7CdV0?t=595&#34; target=&#34;_blank&#34;&gt;keynote talk&lt;/a&gt; by &lt;em&gt;Nikolaus Rajewsky&lt;/em&gt; from MDC Berlin on the principles of gene regulation in space and time at single-cell resolution. He also shared a great European research initiative, The &lt;a href=&#34;https://lifetime-fetflagship.eu/&#34; target=&#34;_blank&#34;&gt;LifeTime Initiative&lt;/a&gt; which aims to use single-cell multi-omics and machine learning techniques to map disease progression to improve medicine.&lt;/p&gt;
-
-&lt;p&gt;We started the second day with a fascinating &lt;a href=&#34;https://youtu.be/CeCLk1jyeAg?t=1294&#34; target=&#34;_blank&#34;&gt;keynote&lt;/a&gt; by &lt;em&gt;William Stafford Noble&lt;/em&gt; of the University of Washington on traveling across spaces: the power of embedding genomic and proteomic data into a latent space. He shared three powerful applications of machine learning and deep learning to make sense of complex genomic or proteomic data into latent representation.&lt;/p&gt;
-
-&lt;p&gt;After the keynote, participants started traveling to different “cities” to attend their favorite COSIs. My favorite COSI at ISMB has been RegSys. But this time, I stayed in San Francisco (the main hall) to attend the first keynote of HiTSeq COSI by &lt;em&gt;Christina Curtis&lt;/em&gt; from Stanford University on quantifying the rates and routes of metastasis.&lt;/p&gt;
-
-&lt;p&gt;After Christina’s talk, I was back to RegSys which was on in the Singapore room with a great line of keynote speakers in the field of gene regulation. The exceptional keynote talks demonstrated the power of using model organisms for important discoveries including interpretation of genetic variants and characterization of different roles and usages of cis-regulatory regions. Other talks highlighted novel experimental and computational methods for characterizing the 3D organization of the genome, TF co-binding, chromatin accessibility, and linking them to different cellular and molecular outcomes. Transcriptional enhancers and their diverse roles in gene regulation were common themes across many talks highlighting the importance of studying these non-coding regulatory regions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/EAJoUsqXsAAa-FT?format=jpg&amp;amp;name=4096x4096&#34; alt=&#34;&#34; /&gt; &lt;em&gt;&lt;em&gt;The Singapore room is full on the 2nd day of RegSys’s morning session on single-cell. Photo by @ferhatay&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The second day of RegSys started in the Singapore room with sessions on the bleeding edge developments in the field of single-cell and transcription factor binding. The three amazing keynotes and other selected talks were full of exciting discoveries enabled by comparing single-cell data from different organisms or by integrating multi-omics such as scRNA-seq and scATAC-seq. Other talks demonstrated the power of machine learning and deep learning techniques at the base-pair resolution, in enabling a better understanding of gene regulatory programs through refined characterization of transcription factor binding.&lt;/p&gt;
-
-&lt;p&gt;On the 4th day, BOSC 2019, the 20th annual Open Source Bioinformatics Conference, was kicked off in Delhi room by BOSC Chair Nomi Harris followed by an introduction to the Open Bioinformatics Foundation by Heather Wiencko. This was my first official BOSC meeting although I dropped by at the BOSC 2015 in Dublin and BOSC 2017 in Prague while volunteering at ISMB/ECCB. This year the BOSC community presented some excellent open-source bioinformatics resources, tools, and workflows through talks and poster sessions. &lt;em&gt;Nicola Mulder&lt;/em&gt; of the University of Cape Town gave a &lt;a href=&#34;https://youtu.be/xShfwiDCQL0?t=366&#34; target=&#34;_blank&#34;&gt;keynote talk&lt;/a&gt; on building infrastructure for responsible open science in Africa. She discussed the technical, ethical and social challenges of sharing data in Africa. She said, “It’s really hard to convince people to share their data and their tools when they have such a history of being exploited”. She and her team under the umbrella of &lt;a href=&#34;https://www.h3abionet.org/&#34; target=&#34;_blank&#34;&gt;H3ABioNet&lt;/a&gt; consortium are making progress in building a Pan-African bioinformatics network.&lt;/p&gt;
-
-&lt;p&gt;And then came the fifth and last day of ISMB/ECCB 2019. It was also the second and last day of BOSC 2019 which started with interesting talks on open-source, open science and reproducible research using containers and workflows. The last session of BOSC 2019 was on Building Open Source Communities, where I was given the opportunity to introduce our community initiative, &lt;a href=&#34;https://ECRcentral.org&#34; target=&#34;_blank&#34;&gt;ECRcentral&lt;/a&gt;. I made my &lt;a href=&#34;https://f1000research.com/slides/8-1185&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;https://f1000research.com/posters/8-1144&#34; target=&#34;_blank&#34;&gt;poster&lt;/a&gt; publicly available on F1000 Research.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My slides and poster introducing &lt;a href=&#34;https://twitter.com/ECRcentral?ref_src=twsrc%5Etfw&#34;&gt;@ECRcentral&lt;/a&gt; are publicly posted to &lt;a href=&#34;https://twitter.com/F1000Research?ref_src=twsrc%5Etfw&#34;&gt;@F1000Research&lt;/a&gt; &lt;br&gt;&lt;br&gt;✅Slides: &lt;a href=&#34;https://t.co/vTlhmzXaUd&#34;&gt;https://t.co/vTlhmzXaUd&lt;/a&gt;&lt;br&gt;✅Poster: &lt;a href=&#34;https://t.co/Hy5EMsFLHT&#34;&gt;https://t.co/Hy5EMsFLHT&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/BOSC2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#BOSC2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1154329690154438656?ref_src=twsrc%5Etfw&#34;&gt;July 25, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ECRcentral&lt;/strong&gt; is a community-driven initiative for early career researchers to find research fellowships and travel grants and to share experiences, resources and get feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;cite&gt;&lt;a href=&#34;https://elifesciences.org/inside-elife/85999196/elife-ambassadors-introducing-ecrcentral&#34; target=&#34;_blank&#34;&gt;Read more here&lt;/a&gt;…&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I co-founded ECRcentral as part of eLife Ambassadors program in collaboration with other eLife Ambassadors. We are a group of ECRs advocating for best practices in science to make science open and reproducible. As an advocate for open science and open-source, I do share all of my code on &lt;a href=&#34;https://github.com/asntech&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and also the source code for the ECRcentral platform is openly available on &lt;a href=&#34;http://github.com/ecrcentral&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My talk about &lt;strong&gt;ECRcentral&lt;/strong&gt; was well received by the community!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;One of my favourite &lt;a href=&#34;https://twitter.com/ECRcentral?ref_src=twsrc%5Etfw&#34;&gt;@ECRcentral&lt;/a&gt; future plans listed by &lt;a href=&#34;https://twitter.com/khanaziz84?ref_src=twsrc%5Etfw&#34;&gt;@khanaziz84&lt;/a&gt;: adding a mentor program so people can help with funding applications. So useful - asking for money is &lt;em&gt;so&lt;/em&gt; scary and often complicated! &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/BOSC2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#BOSC2019&lt;/a&gt;&lt;/p&gt;&amp;mdash; yo yehudi🏳️‍🌈🇪🇺 (@yoyehudi) &lt;a href=&#34;https://twitter.com/yoyehudi/status/1154390803248287746?ref_src=twsrc%5Etfw&#34;&gt;July 25, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;And ISMB/ECCB 2019 concluded after an inspiring keynote talk by &lt;em&gt;Bonnie Berger&lt;/em&gt; of Massachusetts Institute of Technology on Biomedical Data Sharing and Analysis at Scale. Bonnie Berger started her talk with a powerful statement to emphasize the importance of computational biology. She said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“Biology used to be biology. Now biology is inseparable from computer science.”&lt;/p&gt;
-
-&lt;p&gt;&lt;cite&gt;Bonnie Berger&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;I loved it and tweeted right away!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;Biology used to be biology. Now biology is inseparable from computer science&amp;quot; - Bonnie Berger &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/bioinformatics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#bioinformatics&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1154410102901923841?ref_src=twsrc%5Etfw&#34;&gt;July 25, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;And I would say that this inseparable biology now needs to be more open and reproducible without borders.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Along the lines of openness to science, &lt;a href=&#34;https://www.youtube.com/channel/UCN9kqT7pfOzZddPJHqWSuyA/playlists&#34; target=&#34;_blank&#34;&gt;ISMB/ECCB&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/playlist?list=PLmX8XnLr6zeHofbRXbVg0vShC5RwuElj4&#34; target=&#34;_blank&#34;&gt;BOSC&lt;/a&gt; are setting an example for many other conferences and organizations by recording talks and making those publicly available with the consent of speakers licensed under CC-BY 4.0. I have noticed that most of the talks at several other conferences are recorded but sadly these are put behind the paywalls and community need subscriptions to watch these talks later. There is a great need to digitize conferences and make the recorded talks freely available to everyone, and especially for researchers from developing countries who can not attend these events due to lack of funding or visa restrictions.&lt;/p&gt;
-
-&lt;p&gt;To conclude, I would like to thank the OBF for providing the travel fellowship to participate in ISMB/ECCB and BOSC 2019. This travel fellowship was a great opportunity to connect with open source and open science enthusiasts, and I strongly believe that this community will push the boundaries even further to grow and diversify in the years to come.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Goodbye &lt;a href=&#34;https://twitter.com/hashtag/Basel?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Basel&lt;/a&gt;!! &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB&lt;/a&gt; was great as always. &lt;a href=&#34;https://twitter.com/hashtag/ISMBECCB2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMBECCB2019&lt;/a&gt; was more special because my former, current, and future PIs were there too. &lt;a href=&#34;https://t.co/1qFy0vxVXw&#34;&gt;pic.twitter.com/1qFy0vxVXw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1155005378079395841?ref_src=twsrc%5Etfw&#34;&gt;July 27, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>I wrote this blog post for Open Bioinformatics Foundation (OBF) and it was originally posted on October 26, 2019 on OBF website. OBF supported me with a travel grant of $1000 to attend the ISMB/ECCB and BOSC 2019 meeting in Basel, July 2019.
+Computational tools and software are now becoming the core of scientific discovery, and making it open source and sharing it freely with the community helps to take scientific discoveries to the next level.</description>
     </item>
     
     <item>
@@ -112,50 +28,8 @@
       <pubDate>Wed, 27 Feb 2019 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/my-worst-journal-shopping-and-peer-review-experience/</guid>
-      <description>&lt;p&gt;As an early career researcher it is not easy to publish your research in a decent scientific journal and with the time passes scientific publishing is becoming more difficult and challenging.&lt;/p&gt;
-
-&lt;p&gt;The aim of one of my initial projects during Ph.D. was to integrate diverse types of data to identify new signatures of a newly defined class of enhancers (super-enhancers) using computational and  machine learning modeling. Through integrative analysis, we found some new features alongside with many known and ranked them based on their predictive importance. We decided to submit it to &lt;strong&gt;Genome Biology&lt;/strong&gt; as a method paper, although it was more an analysis paper. Anyhow, we submitted to Genome Biology on 18 March 2016 and read below what happened to it after that. :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It took 3 years to get my first &amp;amp; last &lt;a href=&#34;https://twitter.com/hashtag/PhD?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#PhD&lt;/a&gt; paper out today after 4 rejections &amp;amp; reformatting. I&amp;#39;m completing a &lt;a href=&#34;https://twitter.com/hashtag/postdoc?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#postdoc&lt;/a&gt; &amp;amp; will start a career in &lt;a href=&#34;https://twitter.com/hashtag/academia?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#academia&lt;/a&gt;.&lt;a href=&#34;https://twitter.com/hashtag/LessonLearned?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LessonLearned&lt;/a&gt;: Never give up, post &lt;a href=&#34;https://twitter.com/hashtag/preprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#preprint&lt;/a&gt; &amp;amp; let your career move ahead &lt;a href=&#34;https://twitter.com/hashtag/phdlife?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#phdlife&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/academiclife?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#academiclife&lt;/a&gt; &lt;a href=&#34;https://t.co/TFttuZZxTd&#34;&gt;https://t.co/TFttuZZxTd&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1100711295945490433?ref_src=twsrc%5Etfw&#34;&gt;February 27, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;It was rejected on 21 July 2016 with an invitation to re-submit after addressing the reviewers comments. We also got an offer by the editor to transfer it to &lt;strong&gt;BMC Genomics&lt;/strong&gt;, a sister journal of Genome Biology, with a minor revision. We decided to re-submit it to Genome Biology instead. We submitted the revised version on 12 August 2016 and it got rejected after review on 31 October 2016.&lt;/p&gt;
-
-&lt;p&gt;The next journal in my shopping list was &lt;strong&gt;Nucleic Acids Research&lt;/strong&gt;. We submitted to NAR on 14 November 2016, reviews were back on 05 December 2016 with a rejection by the editor.&lt;/p&gt;
-
-&lt;p&gt;Our journal shopping went on and &lt;strong&gt;BMC Genomics&lt;/strong&gt; turned to be next journal in our list. At that time, I regret not considering the transfer offer we got from the editor of Genome Biology. The transfer link was already expired and we had the only option to make a new submission. Anyway, we submitted to BMC Genomics on 2nd February 2017 and also submitted a preprint to bioRxiv (&lt;a href=&#34;https://doi.org/10.1101/105262&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/105262&lt;/a&gt;). Our preprint was well received by the community.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Another look at superenhancers &lt;a href=&#34;https://t.co/yJWViYV3Ti&#34;&gt;https://t.co/yJWViYV3Ti&lt;/a&gt; &amp;quot;Super-enhancers are clusters of active enhancers densely occupied by the Mediators&amp;quot; &lt;a href=&#34;https://t.co/peolf9woYU&#34;&gt;pic.twitter.com/peolf9woYU&lt;/a&gt;&lt;/p&gt;&amp;mdash; Gene Regulation (@generegulation) &lt;a href=&#34;https://twitter.com/generegulation/status/829104269043326977?ref_src=twsrc%5Etfw&#34;&gt;February 7, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;It took five months to get the reviews back from BMC Genomics. The reviews were with the editor for 38 days with no decision, so I took it to twitter and got the decision the next day on July 31, 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hi, can you send the manuscript ID? We&amp;#39;ll look into this.&lt;/p&gt;&amp;mdash; BMC (@BioMedCentral) &lt;a href=&#34;https://twitter.com/BioMedCentral/status/892021830416052229?ref_src=twsrc%5Etfw&#34;&gt;July 31, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We submitted the revised version on 21 Sep 2017 and second reviews were received January 22, 2018. One of the reviewers asked to do experimental validation and we do not have any skills and facility to do that. We then decided not to reply to the reviews and go for the next journal in the shopping list.&lt;/p&gt;
-
-&lt;p&gt;The next journal in the list was &lt;strong&gt;PLOS Computational Biology&lt;/strong&gt; and submitted on 19th March 2018 after reformatting the article and it was rejected on 24 May 2018 after review.&lt;/p&gt;
-
-&lt;p&gt;Our journal shopping went on and this time we decided to go for &lt;strong&gt;Scientific Reports&lt;/strong&gt; and submitted on 15th June 2018. The first major revision was received 22nd August 2018. We submitted the revised version on 22nd September 2018 and got a minor review back on 22 November 2018 with some very nice and rare comments.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This reviewer 2 made my day! 😊&lt;br&gt;1.&lt;br&gt;2. &amp;quot;Given the excellent plots, I would urge the authors to submit one for cover art. Love the presentation for the plots.&amp;quot;&lt;br&gt;3.&lt;br&gt;n.&lt;br&gt;&amp;quot;It was a pleasure to see all the graphics in the paper, thank you.&amp;quot;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/1065941526814048256?ref_src=twsrc%5Etfw&#34;&gt;November 23, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Submitted the revision on 29th November 2018. It was assigned to the Editor right away and it took more than two months to get the decision. It was finally accepted on 8th January 2019 and appeared &lt;a href=&#34;https://doi.org/10.1038/s41598-019-38979-9&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt; on 27th February 2019.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Finally, I was able to get this off my chest. :-)&lt;/p&gt;
-
-&lt;p&gt;Khan A., Zhang X. (2019)  Integrative modeling reveals key chromatin and sequence signatures predicting super-enhancers. Scientific Reports, doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-019-38979-9&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-019-38979-9&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;During these rejections and journal shopping, I have reformatted this manuscript several times by following each journal’s formatting requirements. That experience helped me to write an &lt;a href=&#34;https://doi.org/10.15252/embr.201845731&#34; target=&#34;_blank&#34;&gt;opinion piece&lt;/a&gt; in EMBO reports to put science first and formatting after.&lt;/p&gt;
-
-&lt;p&gt;We estimated that researchers waste a minimum of 1.6 million hours every year to reformat their rejected articles.&lt;/p&gt;
-
-&lt;p&gt;Our opinion article was well received by the community and also it got eight recommendations on &lt;a href=&#34;https://f1000.com/prime/733031605?key=QuhHHVzZ1WVOhqq&#34; target=&#34;_blank&#34;&gt;F1000Prime&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We urge journals and the scientific community to adopt format-free initial submission policies, to put science first and formatting after.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>As an early career researcher it is not easy to publish your research in a decent scientific journal and with the time passes scientific publishing is becoming more difficult and challenging.
+The aim of one of my initial projects during Ph.D. was to integrate diverse types of data to identify new signatures of a newly defined class of enhancers (super-enhancers) using computational and machine learning modeling. Through integrative analysis, we found some new features alongside with many known and ranked them based on their predictive importance.</description>
     </item>
     
     <item>
@@ -164,61 +38,9 @@
       <pubDate>Thu, 12 Apr 2018 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/</guid>
-      <description>&lt;p&gt;Most academic journals have stringent manuscript formatting guidelines that authors must follow before making an initial submission. This process is extremely time consuming and, in many cases, has to be repeated multiple times for submission to a new journal after rejection.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Formatting has no impact on the scientific basis of a manuscript, and style plays no role in the ability to judge its scientific content.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is, therefore, essential to stop these unnecessary and wasteful cycles of formatting to save time and resources.&lt;/p&gt;
-
-&lt;p&gt;Isabelle M Côté a professor of Marine Ecology at Simon Fraser University took it to Twitter and asked journals to impose format requirements once a paper is accepted.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Wouldn&amp;#39;t it be great if publishers required journal-specific formatting only after MS acceptance? So much time is wasted reformatting papers &lt;a href=&#34;https://t.co/wCtNq75obg&#34;&gt;pic.twitter.com/wCtNq75obg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Isabelle M Côté (@redlipblenny) &lt;a href=&#34;https://twitter.com/redlipblenny/status/915382785266802688?ref_src=twsrc%5Etfw&#34;&gt;October 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;The good news is some journals already start accepting format-free initial submissions, such as Bioinformatics.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Good to know that the Bioinformatics journal no longer require to format first submissions according to their guidelines.&lt;br&gt;&lt;br&gt;Science first, format later! &lt;br&gt;&lt;br&gt;I hope other journals will allow too. &lt;a href=&#34;https://twitter.com/hashtag/FormatFreeSubmissions?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#FormatFreeSubmissions&lt;/a&gt; &lt;a href=&#34;https://t.co/MYxFRVdKnG&#34;&gt;pic.twitter.com/MYxFRVdKnG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/931310161591001088?ref_src=twsrc%5Etfw&#34;&gt;November 16, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We propose a universal ‘format-free’ initial submission policy, which has the following characteristics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Structure-free abstract&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Order-free sections&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Style-free references&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Format-free figures and tables&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Format-free manuscript file&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For more details, read our policy piece on format-free, which just appeared in the journal &lt;em&gt;EMBO reports&lt;/em&gt; as an opinion article.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan A., Montenegro-Montero A., and Mathelier A. (2018) Put science first and formatting later, doi:&lt;a href=&#34;https://doi.org/10.15252/embr.201845731&#34; target=&#34;_blank&#34;&gt;10.15252/embr.201845731 &lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We also created a &lt;a href=&#34;https://asntech.github.io/format-free-journals/&#34; target=&#34;_blank&#34;&gt;list&lt;/a&gt; of format-free, YPYW (Your Paper Your Way) and B2J (bioRxiv to journal) journals.&lt;/p&gt;
-
-&lt;p&gt;The community greatly appreciated this initiative and our opinion piece in EMBO reports got good attention on Twitter. Here is tweet in Japanese language by Haruka Ozaki a Computational biologist at RIKEN, Japan.
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;「科学が先、形式は後」Put science first and formatting later | EMBO Reports &lt;a href=&#34;https://t.co/rGpdUdMKeG&#34;&gt;https://t.co/rGpdUdMKeG&lt;/a&gt;&lt;br&gt;再投稿の度に再フォーマットするのは時間の無駄なので「自由なフォーマットでの投稿・査読」を多くの雑誌で可能にしようという提案。生命科学系300誌のリジェクト率のグラフは説得力がある。 &lt;a href=&#34;https://t.co/uFfGMiGe71&#34;&gt;pic.twitter.com/uFfGMiGe71&lt;/a&gt;&lt;/p&gt;&amp;mdash; Haruka Ozaki (@yuifu) &lt;a href=&#34;https://twitter.com/yuifu/status/987294091837763585?ref_src=twsrc%5Etfw&#34;&gt;April 20, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We urge journals and the scientific community to adopt format-free initial submission policies, to put science first and formatting after.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Our opinion article also received eight recommendations on &lt;a href=&#34;https://f1000.com/prime/733031605?key=QuhHHVzZ1WVOhqq&#34; target=&#34;_blank&#34;&gt;F1000Prime&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Olivier Perts and Jakobus Van Unen from University of Bern, Switzerland wrote this:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In this opinion article, Khan and colleagues make the long overdue case for format-free first submissions of manuscripts to peer-reviewed scientific journals. Their estimated number of taxpayer-financed hours wasted by scientists on reformatting rejected manuscripts is daunting and, unfortunately, most likely realistic.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is highly &lt;a href=&#34;https://f1000.com/prime/rankings&#34; target=&#34;_blank&#34;&gt;ranked&lt;/a&gt; in the current top 10 and hidden jewels category on F1000Prime.
-&lt;img src=&#34;https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Most academic journals have stringent manuscript formatting guidelines that authors must follow before making an initial submission. This process is extremely time consuming and, in many cases, has to be repeated multiple times for submission to a new journal after rejection.
+ Formatting has no impact on the scientific basis of a manuscript, and style plays no role in the ability to judge its scientific content.
+ It is, therefore, essential to stop these unnecessary and wasteful cycles of formatting to save time and resources.</description>
     </item>
     
     <item>
@@ -227,38 +49,9 @@
       <pubDate>Tue, 20 Feb 2018 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/database-of-fundings-for-postdocs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/postdoc-funding-schemes/postdoc-funding-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In early 2018, I became the &lt;a href=&#34;https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science&#34; target=&#34;_blank&#34;&gt;eLife Ambassador&lt;/a&gt; along with more than 150 others to work to catalyse improvements in the way science is communicated and performed.
-I have joined the initiatives, with focus on;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Science communication, publishing, funding, open access, open science, preprints, and reproducibility&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In the funding initiative, the eLife Ambassadors created a comprehensive Excel sheet of funding schemes and opportunities for postdocs and early career researchers. I then turned that Excel sheet into a searchable HTML &lt;a href=&#34;https://asntech.github.io/postdoc-funding-schemes/&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt;, which was later taken off on Twitter.
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Very useful for all &lt;a href=&#34;https://twitter.com/hashtag/postdocs?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#postdocs&lt;/a&gt;: List of &lt;a href=&#34;https://twitter.com/hashtag/funding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#funding&lt;/a&gt; schemes and opportunities for postdoctoral &lt;a href=&#34;https://twitter.com/hashtag/fellowships?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#fellowships&lt;/a&gt; &lt;a href=&#34;https://t.co/geFXpH6GFn&#34;&gt;https://t.co/geFXpH6GFn&lt;/a&gt; created by &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt; &lt;a href=&#34;https://twitter.com/eLifeCommunity?ref_src=twsrc%5Etfw&#34;&gt;@eLifeCommunity&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lotte de Winde (@lotte_dewinde) &lt;a href=&#34;https://twitter.com/lotte_dewinde/status/959178973593985025?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2018&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here’s a list of funding schemes and opportunities for postdoctoral fellowships curated/edited by myself and &lt;a href=&#34;https://twitter.com/khanaziz84?ref_src=twsrc%5Etfw&#34;&gt;@khanaziz84&lt;/a&gt; &lt;a href=&#34;https://t.co/rq3mgsUDPp&#34;&gt;https://t.co/rq3mgsUDPp&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt; &lt;a href=&#34;https://twitter.com/eLifeCommunity?ref_src=twsrc%5Etfw&#34;&gt;@eLifeCommunity&lt;/a&gt; &lt;a href=&#34;https://twitter.com/eLife?ref_src=twsrc%5Etfw&#34;&gt;@eLife&lt;/a&gt;&lt;/p&gt;&amp;mdash; Juan Quintana, PhD. (@Jquintanalcala) &lt;a href=&#34;https://twitter.com/Jquintanalcala/status/959144479356747777?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This is an awesome catalogue of postdoc funding opportunities: &amp;gt;230 grant schemes worldwide w/ links, duration, eligibility (h/t &lt;a href=&#34;https://twitter.com/DieterLukas?ref_src=twsrc%5Etfw&#34;&gt;@DieterLukas&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Jquintanalcala?ref_src=twsrc%5Etfw&#34;&gt;@Jquintanalcala&lt;/a&gt; &lt;a href=&#34;https://twitter.com/khanaziz84?ref_src=twsrc%5Etfw&#34;&gt;@khanaziz84&lt;/a&gt;) &lt;a href=&#34;https://t.co/z2stFr5IHW&#34;&gt;https://t.co/z2stFr5IHW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Inouye (@minouye271) &lt;a href=&#34;https://twitter.com/minouye271/status/960056071187410944?ref_src=twsrc%5Etfw&#34;&gt;February 4, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Post-doc and PhD friends! &lt;br&gt;Here is a very useful list of 244 different funding opportunities worldwide &lt;a href=&#34;https://t.co/wsIXlYEhZE&#34;&gt;https://t.co/wsIXlYEhZE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hannah Whitby (@CopperChemist) &lt;a href=&#34;https://twitter.com/CopperChemist/status/977101690888491008?ref_src=twsrc%5Etfw&#34;&gt;March 23, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/postdoc-funding-schemes/travel-grants.png&#34; alt=&#34;&#34; /&gt;
-Then the Ambassadors Lotte de Winde et al. created a detailed list of travel funding opportunities for postdocs, which is now available &lt;a href=&#34;https://asntech.github.io/postdoc-funding-schemes/travel-grants/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I made a list with travel funding opportunities for postdocs: &lt;a href=&#34;https://t.co/mwTiqMqv8C&#34;&gt;https://t.co/mwTiqMqv8C&lt;/a&gt;&lt;br&gt;List is not complete yet - which ones are missing?&lt;a href=&#34;https://twitter.com/hashtag/postdoc?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#postdoc&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/funding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#funding&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lotte de Winde (@lotte_dewinde) &lt;a href=&#34;https://twitter.com/lotte_dewinde/status/970599315231166464?ref_src=twsrc%5Etfw&#34;&gt;March 5, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here&amp;#39;s a great list of &amp;gt;60 travel grant opportunities for postdocs and ECRs &lt;a href=&#34;https://t.co/KvTNfhqSSd&#34;&gt;https://t.co/KvTNfhqSSd&lt;/a&gt; curated by &lt;a href=&#34;https://twitter.com/hashtag/eLifeAmbassadors?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#eLifeAmbassadors&lt;/a&gt; &lt;a href=&#34;https://twitter.com/lotte_dewinde?ref_src=twsrc%5Etfw&#34;&gt;@lotte_dewinde&lt;/a&gt; et al. &lt;a href=&#34;https://twitter.com/hashtag/funding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#funding&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aziz Khan (@khanaziz84) &lt;a href=&#34;https://twitter.com/khanaziz84/status/970894803541151744?ref_src=twsrc%5Etfw&#34;&gt;March 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We encourage the community to help to add new funding opportunities to the list by using the submit tab in the links. You can also &lt;a href=&#34;https://github.com/asntech/postdoc-funding-schemes&#34; target=&#34;_blank&#34;&gt;fork&lt;/a&gt; GitHub repo and submit a pull request.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Now this funding list became ECRcentral &lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ecrcentral.org&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>In early 2018, I became the eLife Ambassador along with more than 150 others to work to catalyse improvements in the way science is communicated and performed. I have joined the initiatives, with focus on;
+ Science communication, publishing, funding, open access, open science, preprints, and reproducibility
+ In the funding initiative, the eLife Ambassadors created a comprehensive Excel sheet of funding schemes and opportunities for postdocs and early career researchers.</description>
     </item>
     
     <item>
@@ -267,50 +60,8 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
       <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/jaspar-database-with-a-new-look/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://jaspar.genereg.net/&#34; target=&#34;_blank&#34;&gt;JASPAR&lt;/a&gt; is an open-access database of transcription factor binding profiles across multiple species in six taxonomic groups. It was first developed by &lt;a href=&#34;http://albinsandelin.wixsite.com/sandelinlab&#34; target=&#34;_blank&#34;&gt;Albin Sandelin&lt;/a&gt; during his Ph.D. at Karolinska Institutet, Sweden in 2004. JASPAR is an extremely useful resource for transcriptional gene regulation community, and it has been widely used and cited (&amp;gt;4,000 citations).&lt;/p&gt;
-
-&lt;p&gt;Since then JASPAR database has been extensively updated almost every second year. For the seventh release of JASPAR, I got involved to redevelop the entire database including its features and user interface. Previously, JASPAR was developed by Albin mainly in Perl. I have written all the code in Python and developed it using the MVC web-framework Django. Below is the screenshot of the new interface and you can browse it here &lt;a href=&#34;http://jaspar.genereg.net/&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I met Albin first time in August 2017 at the FANTOM6 annual meeting in Yokohama. He was very excited about the new look of JASPAR. He told me how he curated the data for JASPAR at the beginning. Back then most of the scientific content was not online, so he used to sit in the library for hours and find papers which report the TF binding sites data. He used to write all the sequences one by one, but later he got an OCR machine to scan the papers to get the letters A, C, G, and T.&lt;/p&gt;
-
-&lt;p&gt;For the first release of JASPAR, he collected 111 profiles, which was greatly expended over the releases in 2006, 2008, 2010, 2014 and 2016. In the seventh 2018 release of JASPAR, we have intotal 1404 non-redundant profiles in the CORE collection.&lt;/p&gt;
-
-&lt;p&gt;Apart from profile expansion, the new website comes with new features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enhanced browsing and searching&lt;/li&gt;
-&lt;li&gt;A shopping cart without checkout&lt;/li&gt;
-&lt;li&gt;A REST interface&lt;/li&gt;
-&lt;li&gt;Semantic URLs&lt;/li&gt;
-&lt;li&gt;URL redirection&lt;/li&gt;
-&lt;li&gt;Responsive (mobile-friendly)&lt;/li&gt;
-&lt;li&gt;Profiles can be downloaded in eight widely used formats&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The seventh release appeared in the 2018 database issue of the  &lt;em&gt;Nucleic Acids Research&lt;/em&gt; journal.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan, A. et al. JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework. Nucleic Acids Res. 2018; 46:D260–D266, doi: &lt;a href=&#34;https://doi.org/10.1093/nar/gkx1126&#34; target=&#34;_blank&#34;&gt;10.1093/nar/gkx1126&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We also introduced, first time, a &lt;a href=&#34;http://jaspar.genereg.net/api/&#34; target=&#34;_blank&#34;&gt;RESTful API&lt;/a&gt; to retrieved the JASPAR data programmatically.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/img/jaspar-rest-api.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The RESTful API was published as an application note in the journal &lt;em&gt;Bioinformatics&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan, A. and Mathelier, A. JASPAR RESTful API: accessing JASPAR data from any programming language. Bioinformatics, 2017, doi: &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btx804&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btx804&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The source code for the website and RESTful API is freely available &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m very excited to be part of JASPAR consortium and contribute to this great resource.&lt;/p&gt;
-
-&lt;p&gt;P.S. If you&amp;rsquo;re curious about what JASPAR stands for, check &lt;a href=&#34;http://jaspar.genereg.net/faq/#who-is-jaspar-anyhow&#34; target=&#34;_blank&#34;&gt;FAQs&lt;/a&gt; ;-)&lt;/p&gt;
-</description>
+      <description>JASPAR is an open-access database of transcription factor binding profiles across multiple species in six taxonomic groups. It was first developed by Albin Sandelin during his Ph.D. at Karolinska Institutet, Sweden in 2004. JASPAR is an extremely useful resource for transcriptional gene regulation community, and it has been widely used and cited (&amp;gt;4,000 citations).
+Since then JASPAR database has been extensively updated almost every second year. For the seventh release of JASPAR, I got involved to redevelop the entire database including its features and user interface.</description>
     </item>
     
     <item>
@@ -319,58 +70,7 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
       <pubDate>Sun, 20 Aug 2017 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/time-to-make-venn-diagram-upset/</guid>
-      <description>&lt;p&gt;For decades &lt;a href=&#34;https://en.wikipedia.org/wiki/Venn_diagram&#34; target=&#34;_blank&#34;&gt;Venn diagrams&lt;/a&gt; (created by &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Venn&#34; target=&#34;_blank&#34;&gt;John Venn&lt;/a&gt; in 1880) have been a primary way to show set intersections. Although Venn diagrams are very useful in set theory but not scalable if the number of sets increases more than four, it is very difficult to understand them. Also, it’s not possible to show more than 6 sets in a Venn diagram. For example, the below six-way Venn diagram shows the distribution of shared gene families among six genomes, taken from &lt;a href=&#34;https://www.nature.com/articles/nature11241&#34; target=&#34;_blank&#34;&gt;D’Hont et al. (2012) Nature&lt;/a&gt;, is very complicated to understand.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://media.nature.com/lw926/nature-assets/nature/journal/v488/n7410/images/nature11241-f4.2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;An alternative approach, named &lt;a href=&#34;http://caleydo.org/tools/upset/&#34; target=&#34;_blank&#34;&gt;UpSet&lt;/a&gt;, was introduced by &lt;a href=&#34;http://gehlenborglab.org/&#34; target=&#34;_blank&#34;&gt;Nils Gehlenborg&amp;rsquo;s&lt;/a&gt; lab at Harvard Medical School to depict the intersection of more than three sets. The advantage of UpSet plots is their capacity to rank the intersections and alternatively hide combinations without intersection, which is not possible using a Venn diagram. There is also an awesome R package &lt;a href=&#34;https://cran.r-project.org/package=UpSetR&#34; target=&#34;_blank&#34;&gt;UpSetR&lt;/a&gt;. Below, the above Venn diagram was turned into UpSet, and it looks cool and easy to find where are highest intersections. To know more about UpSet plots, it&amp;rsquo;s recommended to read Nils &lt;a href=&#34;https://www.slideshare.net/ngehlenborg/relaxation-techniques-for-the-upset-data-scientist&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;However, with a large number of sets, UpSet plots also become an ineffective way of illustrating set intersections. To visualize a large number of sets, one can represent pairwise intersections using a clustered heatmap.&lt;/p&gt;
-
-&lt;p&gt;To have these three options in one tool, we developed &amp;lsquo;Intervene&amp;rsquo;, for effective intersection and visualization of genomic regions or name list sets and to generate publication-quality figures. Intervene has 3 modules:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;upset&lt;/strong&gt; to generate UpSet plots of multiple sets,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pairwise&lt;/strong&gt; to compute and visualize intersections of multiple sets as clustered heat maps, and&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;venn&lt;/strong&gt; to generate Venn diagrams of up to six sets (for folks who still love Venn diagrams)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/img/Intervene_pairwise_frac-ses.png&#34; alt=&#34;SEs&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Intervene comes with a Python-based command line interface, which can easily be installed through &lt;em&gt;bioconda&lt;/em&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;conda install -c bioconda intervene
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Or through PyPi&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pip install intervene
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The source code is freely available on GitHub and Bitbucket&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/asntech/intervene&#34; target=&#34;_blank&#34;&gt;https://github.com/asntech/intervene&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bitbucket: &lt;a href=&#34;https://bitbucket.org/CBGR/intervene&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/intervene&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I also developed an interactive Shiny web application which is available at:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://asntech.shinyapps.io/intervene&#34; target=&#34;_blank&#34;&gt;https://asntech.shinyapps.io/intervene&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;For more details, you can read our manuscript which appeared in the journal &lt;em&gt;BMC Bioinformatics&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan A., and Mathelier A. (2017) Intervene: a tool for intersection and visualization of multiple gene or genomic region sets, BMC Bioinformatics. 18(1):287. doi:&lt;a href=&#34;https://doi.org/10.1186/s12859-017-1708-7&#34; target=&#34;_blank&#34;&gt;10.1186/s12859-017-1708-7&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://intervene.readthedocs.io/en/latest/_images/Intervene_sketch.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>For decades Venn diagrams (created by John Venn in 1880) have been a primary way to show set intersections. Although Venn diagrams are very useful in set theory but not scalable if the number of sets increases more than four, it is very difficult to understand them. Also, it’s not possible to show more than 6 sets in a Venn diagram. For example, the below six-way Venn diagram shows the distribution of shared gene families among six genomes, taken from D’Hont et al.</description>
     </item>
     
     <item>
@@ -379,8 +79,7 @@ Then the Ambassadors Lotte de Winde et al. created a detailed list of travel fun
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/welcome/</guid>
-      <description>&lt;p&gt;This is a welcome post about my new website using &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Academic Theme&lt;/a&gt; and the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>This is a welcome post about my new website using Academic Theme and the Hugo</description>
     </item>
     
   </channel>

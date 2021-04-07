@@ -8,7 +8,76 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://asntech.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://asntech.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/about/</guid>
+      <description>I am a computational biologist interested in gene regulation, cancer (epi)genomic, and chromatin regulatory dynamics of tumor growth.
+I did my PhD in Bioinformatics at Tsinghua University, China with Prof. Xuegong Zhang followed by a three year Postdoc at NCMM, University of Oslo, Norway with Dr. Anthony Mathelier. During PhD and postdoctoral training my primary research emphasis was on regulatory genomics and epigenomics. I developed computational methods, tools, and resources to understand the (epi)genomic control of gene regulation in development and disease.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://asntech.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks and Posters</title>
+      <link>https://asntech.github.io/home/conferences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/conferences/</guid>
+      <description>ECRcentral: Bringing early-career researchers and funding opportunities together, ISMB/ECCB 2019, Basel. Jul 2019. - [Poster and Talk]
+ Preprints in the life sciences, Sven Furberg Seminar in Bioinformatics and Statistical Genomics, Oslo, Norway. Jan 2019. - [Talk]
+ A dynamic landscape of enhancer clusters during mouse development, CSHL meeting on Epigenetics &amp;amp; Chromatin, New York, USA. Sep 2018. - [Poster]
+ Towards a format-free submission policy: Let’s put science first, 2nd annual conference of Digital Life Norway Research School, Stiklestad, Norway.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://asntech.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://asntech.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://asntech.github.io/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/activities/</guid>
+      <description>Academic Activities  Ambassador, eLife and ASAPbio (2018-2019) Member, International Society for Computational Biology (ISCB), 2015 – Present Member, International Society for Biocuration (ISB), 2015 – Present Curator, OMICtools, transcription factors and regulatory elements, 2014 – Present Co-Chair, Web Committee, ISCB Student Council, 2016 – Present Reviewer, ISCB Student Council Symposium, 2015, 2016, 2017, 2018 Organizer, Young Investigator Meeting (YIM), University of Oslo, Norway, Sep 2018 Chair Web Committee,ISCB African Student Symposium 2017, Entebbe, Uganda.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://asntech.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asntech.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

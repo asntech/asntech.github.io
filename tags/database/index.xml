@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/database/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://asntech.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JASPAR database</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/jaspar-2018/</guid>
-      <description>&lt;p&gt;JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at &lt;a href=&#34;http://jaspar.genereg.net&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net&lt;/a&gt; and the source code is freely available at &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;https://bitbucket.org/CBGR/jaspar&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
-</description>
+      <description>JASPAR is a widely used open-access database of curated, non-redundant transcription factor binding profiles. We have developed a brand new web interface using Django and also a REST API. The web app and REST API is implemented in Python using Django and Django REST Framework. It is accessible at http://jaspar.genereg.net and the source code is freely available at https://bitbucket.org/CBGR/jaspar under GPL v3 license.</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/unibind/</guid>
-      <description>&lt;p&gt;UniBind (&lt;a href=&#34;http://unibind.uio.no/&#34; target=&#34;_blank&#34;&gt;http://unibind.uio.no/&lt;/a&gt;) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions. These models include DiMO-optimized position weight matrices (PWMs), transcription factor flexible models, DNA shape-based models, and binding energy models. An entropy-based algorithm was used to automatically delineate an enrichment zone containing direct TF – DNA interactions, supported by both strong computational evidence and strong experimental evidence. The UniBind database hosts the complete set of TFBS predictions for each prediction model, as well as the models themselves, the original ChIP-seq peaks, and cis-regulatory modules derived from these direct TF – DNA interactions.&lt;/p&gt;
-</description>
+      <description>UniBind (http://unibind.uio.no/) is a comprehensive map of direct transcription factor (TF) – DNA interactions in the human genome. These interactions were obtained uniformly processing thousands of ChIP-seq data sets, from raw reads to high confidence TF binding site predictions, using the ChIP-eat software. ChIP-eat used the MACS2 peak caller to identify ChIP-seq peaks on the hg38 version of the human genome. Next, these genomic regions were analysed with four different TF binding prediction models to derive direct TF-DNA interactions.</description>
     </item>
     
     <item>
@@ -36,14 +36,8 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/ecrcentral/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ecrcentral.org/&#34; target=&#34;_blank&#34;&gt;ECRcentral&lt;/a&gt; is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.&lt;/p&gt;
-
-&lt;p&gt;ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities. You can read more about how you can get involved here.&lt;/p&gt;
-
-&lt;p&gt;The platform is developed using open source technology, with all source code and documentation available publically. All the source code and related content are openly available through our &lt;a href=&#34;https://github.com/ecrcentral/&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;, so the community can contribute and/or reuse the code.&lt;/p&gt;
-
-&lt;p&gt;ECRcentral aims to bring early career researchers together to discuss funding opportunities, share experiences, and create impact through community engagement.&lt;/p&gt;
-</description>
+      <description>ECRcentral is a central platform for early career researchers to find research fellowships and travel grants, and to share experiences, resources and feedback.
+ECRcentral is a community-driven initiative which was started by eLife Ambassadors 2018. The eLife Ambassador program supports the development of new initiatives ranging from preprints, reproducibility, and funding, by facilitating local discussions and connecting communities with international developments. We invite you to join and contribute by adding/editing funding opportunities.</description>
     </item>
     
     <item>
@@ -52,8 +46,7 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/mcrossbase/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://zhanglab.c2b2.columbia.edu/mCrossBase/&#34; target=&#34;_blank&#34;&gt;mCrossBase&lt;/a&gt; is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: &lt;a href=&#34;https://doi.org/10.1016/j.molcel.2019.02.002&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.molcel.2019.02.002&lt;/a&gt;).&lt;/p&gt;
-</description>
+      <description>mCrossBase is a database of RNA-binding protein (RBP) binding motifs and crosslink sites defined jointly from CLIP data using a novel algorithm mCross (Feng et al. 2019 Mol. Cell, DOI: https://doi.org/10.1016/j.molcel.2019.02.002).</description>
     </item>
     
     <item>
@@ -62,50 +55,8 @@
       <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/jaspar-database-with-a-new-look/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://jaspar.genereg.net/&#34; target=&#34;_blank&#34;&gt;JASPAR&lt;/a&gt; is an open-access database of transcription factor binding profiles across multiple species in six taxonomic groups. It was first developed by &lt;a href=&#34;http://albinsandelin.wixsite.com/sandelinlab&#34; target=&#34;_blank&#34;&gt;Albin Sandelin&lt;/a&gt; during his Ph.D. at Karolinska Institutet, Sweden in 2004. JASPAR is an extremely useful resource for transcriptional gene regulation community, and it has been widely used and cited (&amp;gt;4,000 citations).&lt;/p&gt;
-
-&lt;p&gt;Since then JASPAR database has been extensively updated almost every second year. For the seventh release of JASPAR, I got involved to redevelop the entire database including its features and user interface. Previously, JASPAR was developed by Albin mainly in Perl. I have written all the code in Python and developed it using the MVC web-framework Django. Below is the screenshot of the new interface and you can browse it here &lt;a href=&#34;http://jaspar.genereg.net/&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I met Albin first time in August 2017 at the FANTOM6 annual meeting in Yokohama. He was very excited about the new look of JASPAR. He told me how he curated the data for JASPAR at the beginning. Back then most of the scientific content was not online, so he used to sit in the library for hours and find papers which report the TF binding sites data. He used to write all the sequences one by one, but later he got an OCR machine to scan the papers to get the letters A, C, G, and T.&lt;/p&gt;
-
-&lt;p&gt;For the first release of JASPAR, he collected 111 profiles, which was greatly expended over the releases in 2006, 2008, 2010, 2014 and 2016. In the seventh 2018 release of JASPAR, we have intotal 1404 non-redundant profiles in the CORE collection.&lt;/p&gt;
-
-&lt;p&gt;Apart from profile expansion, the new website comes with new features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enhanced browsing and searching&lt;/li&gt;
-&lt;li&gt;A shopping cart without checkout&lt;/li&gt;
-&lt;li&gt;A REST interface&lt;/li&gt;
-&lt;li&gt;Semantic URLs&lt;/li&gt;
-&lt;li&gt;URL redirection&lt;/li&gt;
-&lt;li&gt;Responsive (mobile-friendly)&lt;/li&gt;
-&lt;li&gt;Profiles can be downloaded in eight widely used formats&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The seventh release appeared in the 2018 database issue of the  &lt;em&gt;Nucleic Acids Research&lt;/em&gt; journal.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan, A. et al. JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework. Nucleic Acids Res. 2018; 46:D260–D266, doi: &lt;a href=&#34;https://doi.org/10.1093/nar/gkx1126&#34; target=&#34;_blank&#34;&gt;10.1093/nar/gkx1126&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We also introduced, first time, a &lt;a href=&#34;http://jaspar.genereg.net/api/&#34; target=&#34;_blank&#34;&gt;RESTful API&lt;/a&gt; to retrieved the JASPAR data programmatically.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/img/jaspar-rest-api.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The RESTful API was published as an application note in the journal &lt;em&gt;Bioinformatics&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan, A. and Mathelier, A. JASPAR RESTful API: accessing JASPAR data from any programming language. Bioinformatics, 2017, doi: &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btx804&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btx804&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The source code for the website and RESTful API is freely available &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m very excited to be part of JASPAR consortium and contribute to this great resource.&lt;/p&gt;
-
-&lt;p&gt;P.S. If you&amp;rsquo;re curious about what JASPAR stands for, check &lt;a href=&#34;http://jaspar.genereg.net/faq/#who-is-jaspar-anyhow&#34; target=&#34;_blank&#34;&gt;FAQs&lt;/a&gt; ;-)&lt;/p&gt;
-</description>
+      <description>JASPAR is an open-access database of transcription factor binding profiles across multiple species in six taxonomic groups. It was first developed by Albin Sandelin during his Ph.D. at Karolinska Institutet, Sweden in 2004. JASPAR is an extremely useful resource for transcriptional gene regulation community, and it has been widely used and cited (&amp;gt;4,000 citations).
+Since then JASPAR database has been extensively updated almost every second year. For the seventh release of JASPAR, I got involved to redevelop the entire database including its features and user interface.</description>
     </item>
     
     <item>
@@ -114,8 +65,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/project/dbsuper/</guid>
-      <description>&lt;p&gt;Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available. We developed dbSUPER (&lt;a href=&#34;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://bioinfo.au.tsinghua.edu.cn/dbsuper/&lt;/a&gt;), the first integrated and interactive database of super-enhancers, with the primary goal of providing a resource for assistance in further studies related to transcriptional control of cell identity and disease. dbSUPER provides a responsive and user-friendly web interface to facilitate efficient and comprehensive search and browsing. The data can be easily sent to Galaxy instances, GREAT and Cistrome web-servers for downstream analysis, and can also be visualized in the UCSC genome browser where custom tracks can be added automatically. The data can be downloaded and exported in variety of formats. Furthermore, dbSUPER lists genes associated with super-enhancers and also links to external databases such as GeneCards, UniProt and Entrez. dbSUPER also provides an overlap analysis tool to annotate user-defined regions. We believe dbSUPER is a valuable resource for the biology and genetic research communities. A mirror website is available at &lt;a href=&#34;http://asntech.org/dbsuper/&#34; target=&#34;_blank&#34;&gt;http://asntech.org/dbsuper/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Super-enhancers are clusters of transcriptional enhancers that drive cell-type-specific gene expression and are crucial to cell identity. Many disease-associated sequence variations are enriched in super-enhancer regions of disease-relevant cell types. Thus, super-enhancers can be used as potential biomarkers for disease diagnosis and therapeutics. Current studies have identified super-enhancers in more than 100 cell types and demonstrated their functional importance. However, a centralized resource to integrate all these findings is not currently available.</description>
     </item>
     
   </channel>

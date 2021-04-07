@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Aziz Khan</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 12:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/jaspar/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://asntech.github.io/tags/jaspar/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JASPAR database in a new look after 14 years</title>
@@ -16,50 +18,8 @@
       <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
       
       <guid>https://asntech.github.io/post/jaspar-database-with-a-new-look/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://jaspar.genereg.net/&#34; target=&#34;_blank&#34;&gt;JASPAR&lt;/a&gt; is an open-access database of transcription factor binding profiles across multiple species in six taxonomic groups. It was first developed by &lt;a href=&#34;http://albinsandelin.wixsite.com/sandelinlab&#34; target=&#34;_blank&#34;&gt;Albin Sandelin&lt;/a&gt; during his Ph.D. at Karolinska Institutet, Sweden in 2004. JASPAR is an extremely useful resource for transcriptional gene regulation community, and it has been widely used and cited (&amp;gt;4,000 citations).&lt;/p&gt;
-
-&lt;p&gt;Since then JASPAR database has been extensively updated almost every second year. For the seventh release of JASPAR, I got involved to redevelop the entire database including its features and user interface. Previously, JASPAR was developed by Albin mainly in Perl. I have written all the code in Python and developed it using the MVC web-framework Django. Below is the screenshot of the new interface and you can browse it here &lt;a href=&#34;http://jaspar.genereg.net/&#34; target=&#34;_blank&#34;&gt;http://jaspar.genereg.net/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I met Albin first time in August 2017 at the FANTOM6 annual meeting in Yokohama. He was very excited about the new look of JASPAR. He told me how he curated the data for JASPAR at the beginning. Back then most of the scientific content was not online, so he used to sit in the library for hours and find papers which report the TF binding sites data. He used to write all the sequences one by one, but later he got an OCR machine to scan the papers to get the letters A, C, G, and T.&lt;/p&gt;
-
-&lt;p&gt;For the first release of JASPAR, he collected 111 profiles, which was greatly expended over the releases in 2006, 2008, 2010, 2014 and 2016. In the seventh 2018 release of JASPAR, we have intotal 1404 non-redundant profiles in the CORE collection.&lt;/p&gt;
-
-&lt;p&gt;Apart from profile expansion, the new website comes with new features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enhanced browsing and searching&lt;/li&gt;
-&lt;li&gt;A shopping cart without checkout&lt;/li&gt;
-&lt;li&gt;A REST interface&lt;/li&gt;
-&lt;li&gt;Semantic URLs&lt;/li&gt;
-&lt;li&gt;URL redirection&lt;/li&gt;
-&lt;li&gt;Responsive (mobile-friendly)&lt;/li&gt;
-&lt;li&gt;Profiles can be downloaded in eight widely used formats&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The seventh release appeared in the 2018 database issue of the  &lt;em&gt;Nucleic Acids Research&lt;/em&gt; journal.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan, A. et al. JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework. Nucleic Acids Res. 2018; 46:D260–D266, doi: &lt;a href=&#34;https://doi.org/10.1093/nar/gkx1126&#34; target=&#34;_blank&#34;&gt;10.1093/nar/gkx1126&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We also introduced, first time, a &lt;a href=&#34;http://jaspar.genereg.net/api/&#34; target=&#34;_blank&#34;&gt;RESTful API&lt;/a&gt; to retrieved the JASPAR data programmatically.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://asntech.github.io/img/jaspar-rest-api.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The RESTful API was published as an application note in the journal &lt;em&gt;Bioinformatics&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Khan, A. and Mathelier, A. JASPAR RESTful API: accessing JASPAR data from any programming language. Bioinformatics, 2017, doi: &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btx804&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btx804&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The source code for the website and RESTful API is freely available &lt;a href=&#34;https://bitbucket.org/CBGR/jaspar&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; under GPL v3 license.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m very excited to be part of JASPAR consortium and contribute to this great resource.&lt;/p&gt;
-
-&lt;p&gt;P.S. If you&amp;rsquo;re curious about what JASPAR stands for, check &lt;a href=&#34;http://jaspar.genereg.net/faq/#who-is-jaspar-anyhow&#34; target=&#34;_blank&#34;&gt;FAQs&lt;/a&gt; ;-)&lt;/p&gt;
-</description>
+      <description>JASPAR is an open-access database of transcription factor binding profiles across multiple species in six taxonomic groups. It was first developed by Albin Sandelin during his Ph.D. at Karolinska Institutet, Sweden in 2004. JASPAR is an extremely useful resource for transcriptional gene regulation community, and it has been widely used and cited (&amp;gt;4,000 citations).
+Since then JASPAR database has been extensively updated almost every second year. For the seventh release of JASPAR, I got involved to redevelop the entire database including its features and user interface.</description>
     </item>
     
   </channel>
